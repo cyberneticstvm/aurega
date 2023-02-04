@@ -1,13 +1,13 @@
 @extends("base")
 @section("content")
 <!-- Hero section -->
-<div class="section-xl bg-image parallax" data-bg-src="../assets/images/background.jpg">
+<div class="section-xl bg-image parallax" data-bg-src="{{ public_path().'/assets/images/aurega/home-bg.jpg' }}">
     <div class="bg-dark-05">
         <div class="container">
             <div class="row g-4">
                 <div class="col-12 col-sm-10 col-md-8">
                     <div class="bg-color-spring-red-07 p-5 border-radius">
-                        <h2 class="fw-light m-0">Great things in business are never done by one person. They're done by a team of people.</h2>
+                        <h2 class="fw-light m-0 text-yellow">Great things in business are never done by one person. They're done by a team of people.</h2>
                     </div>
                 </div>
             </div><!-- end row -->
@@ -15,71 +15,77 @@
     </div>
 </div>
 <!-- end Hero section -->
-<!-- Services section -->
-<div class="section">
-    <div class="container">
-        <div class="row icon-5xl g-4">
-            <!-- Service box 1 -->
-            <div class="col-12 col-md-4">
-                <i class="bi bi-chat-text text-spring-red"></i>
-                <h5 class="fw-medium mt-2">Business Consultent</h5>
-                <p>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</p>
-                <a class="button-text-3 mt-3" href="#">Learn More</a>
+<div class="n-margin-6">
+    <div class="container icon-5xl">
+        <div class="row g-4">
+            <!-- Feature box 1 -->
+            <div class="col-12 col-lg-4">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/test.jpg' }}" alt="">
+                <div class="bg-white box-shadow hover-float p-4 p-xl-5">
+                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation</span></h5>
+                    <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
+                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Talk</a></div>
+                </div>
             </div>
-            <!-- Service box 2 -->
-            <div class="col-12 col-md-4">
-                <i class="bi bi-gear text-spring-red"></i>
-                <h5 class="fw-medium mt-2">Factory Consultent</h5>
-                <p>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</p>
-                <a class="button-text-3 mt-3" href="#">Learn More</a>
+            <!-- Feature box 2 -->
+            <div class="col-12 col-lg-4">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/test.jpg' }}" alt="">
+                <div class="bg-white box-shadow hover-float p-4 p-xl-5">
+                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Golden Visa</span></h5>
+                    <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
+                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Talk</a></div>
+                </div>
             </div>
-            <!-- Service box 3 -->
-            <div class="col-12 col-md-4">
-                <i class="bi bi-journal-text text-spring-red"></i>
-                <h5 class="fw-medium mt-2">Strategy &amp; Planning</h5>
-                <p>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</p>
-                <a class="button-text-3 mt-3" href="#">Learn More</a>
+            <!-- Feature box 3 -->
+            <div class="col-12 col-lg-4">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/test.jpg' }}" alt="">
+                <div class="bg-white box-shadow hover-float p-4 p-xl-5">
+                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Management Consulting</span></h5>
+                    <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
+                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Talk</a></div>
+                </div>
             </div>
         </div><!-- end row -->
     </div><!-- end container -->
 </div>
-<!-- end Services section -->
-
 <!-- About section -->
-<div class="container">
-    <div class="row align-items-center g-5">
-        <div class="col-12 col-lg-6 col-xl-7">
-            <img class="border-radius" src="../assets/images/col-1.jpg" alt="">
-        </div>
-        <div class="col-12 col-lg-6 col-xl-5">
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-            <!-- Progress bars -->
-            <div class="mt-4">
-                <!-- Progress bar box 1 -->
-                <div class="progress-box progress-spring-red">
-                    <h6 class="fw-medium">Social Marketing</h6>
-                    <div class="animated-progress">
-                        <div data-progress="94"></div>
-                    </div>
-                </div>
-                <!-- Progress bar box 2 -->
-                <div class="progress-box progress-spring-red mt-4">
-                    <h6 class="fw-medium">Sales Training</h6>
-                    <div class="animated-progress">
-                        <div data-progress="88"></div>
-                    </div>
-                </div>
-                <!-- Progress bar box 3 -->
-                <div class="progress-box progress-spring-red mt-4">
-                    <h6 class="fw-medium">Copywriting</h6>
-                    <div class="animated-progress">
-                        <div data-progress="92"></div>
-                    </div>
-                </div>
+<div class="section">
+    <div class="container">
+        <div class="row align-items-center g-5">
+            <div class="col-12 col-lg-6 col-xl-7">
+                <img class="border-radius" src="../assets/images/col-1.jpg" alt="">
             </div>
-            <!-- end Progress bars -->
-        </div>
-    </div><!-- end row -->
+            <div class="col-12 col-lg-6 col-xl-5">
+                <h2 class="fw-normal">About Aurega</h2>
+                <p class="text-justify">Aurega Group is the global gateway to multidisciplinary business requirements. We're one of the most trusted business setup advisory establishments which give comprehensive professional services to individuals, associations and large corporates. As we've times of experience in serving the trade and new business sector universally, we give largely substantiated business setup services and veritable cooperative platform to our clients.</p>
+                <!-- Progress bars -->
+                <div class="mt-4">
+                    <!-- Progress bar box 1 -->
+                    <div class="progress-box progress-spring-red">
+                        <h6 class="fw-medium">Social Marketing</h6>
+                        <div class="animated-progress">
+                            <div data-progress="94"></div>
+                        </div>
+                    </div>
+                    <!-- Progress bar box 2 -->
+                    <div class="progress-box progress-spring-red mt-4">
+                        <h6 class="fw-medium">Sales Training</h6>
+                        <div class="animated-progress">
+                            <div data-progress="88"></div>
+                        </div>
+                    </div>
+                    <!-- Progress bar box 3 -->
+                    <div class="progress-box progress-spring-red mt-4">
+                        <h6 class="fw-medium">Copywriting</h6>
+                        <div class="animated-progress">
+                            <div data-progress="92"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end Progress bars -->
+            </div>
+        </div><!-- end row -->
+    </div>
 </div>
 <!-- end About section -->
 

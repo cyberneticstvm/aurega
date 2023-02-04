@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="">
         <meta name="keywords" content="">
-		<title>Aurega Corporate Services</title>
+		<title>Business Setup and Golden Visa in Dubai and UAE 2023</title>
 		<!-- Favicon -->
         <link href="{{ public_path().'/assets/images/favicon.png' }}" rel="shortcut icon">
 		<!-- CSS -->
@@ -26,77 +26,31 @@
 			<div class="container">
 				<!-- Logo -->
 				<div class="header-logo">
-					<h3><a href="#">mono</a></h3>
-					<!-- 
-					<img class="logo-dark" src="../assets/images/your-logo-dark.png" alt="">
-					<img class="logo-light" src="../assets/images/your-logo-light.png" alt=""> 
+					<!--<h3><a href="#">mono</a></h3>-->
+					
+					<img class="logo-light" src="{{ public_path().'/assets/images/aurega/logo.jpeg' }}" alt="">
+					<!-- <img class="logo-dark" src="../assets/images/your-logo-light.png" alt=""> 
 					-->
 				</div>
 				<!-- Menu -->
 				<div class="header-menu">
 					<ul class="nav">
 						<li class="nav-item">
-							<a class="nav-link" href="#">Link Only</a>
+							<a class="nav-link" href="#">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Dropdown</a>
+							<a class="nav-link" href="#">About Us</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Services</a>
 							<ul class="nav-dropdown">
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Company Registration</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Golden Visa</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Management Consulting</a></li>
 							</ul>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Subdropdown</a>
-							<ul class="nav-dropdown">
-								<li class="nav-dropdown-item">
-									<a class="nav-dropdown-link" href="#">Dropdown Item</a>
-									<ul class="nav-subdropdown">
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-									</ul>
-								</li>
-								<li class="nav-dropdown-item">
-									<a class="nav-dropdown-link" href="#">Dropdown Item</a>
-									<ul class="nav-subdropdown">
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-										<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-									</ul>
-								</li>
-							</ul>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#">Subdropdown LG</a>
-							<ul class="nav-dropdown">
-								<li class="nav-dropdown-item">
-									<a class="nav-dropdown-link" href="#">Dropdown Item</a>
-									<div class="nav-subdropdown nav-subdropdown-lg">
-										<div class="row g-2 g-lg-3">
-											<div class="col-12 col-lg-6">
-												<ul>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-												</ul>
-											</div>
-											<div class="col-12 col-lg-6">
-												<ul>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-													<li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-												</ul>
-											</div>
-										</div><!-- end row -->
-									</div>
-								</li>
-							</ul>
+							<a class="nav-link" href="#">Contact Us</a>
 						</li>
 					</ul>
 				</div>
