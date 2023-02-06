@@ -28,7 +28,7 @@
 				<div class="header-logo">
 					<!--<h3><a href="#">mono</a></h3>-->
 					
-					<img class="logo-light" src="{{ public_path().'/assets/images/aurega/logo.jpeg' }}" alt="">
+					<img class="logo-light" src="{{ public_path().'/assets/images/aurega/logo.jpeg' }}" alt="Aurega Corporate Services">
 					<!-- <img class="logo-dark" src="../assets/images/your-logo-light.png" alt=""> 
 					-->
 				</div>
@@ -36,10 +36,10 @@
 				<div class="header-menu">
 					<ul class="nav">
 						<li class="nav-item">
-							<a class="nav-link" href="#">Home</a>
+							<a class="nav-link" href="/">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">About Us</a>
+							<a class="nav-link" href="/about">About Us</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#">Services</a>
@@ -73,28 +73,27 @@
 		@yield("content")
 
 		<footer>
-			<div class="section-sm bg-dark">
+			<div class="section-sm bg-black">
 				<div class="container">
 					<div class="row g-4">
 						<div class="col-6 col-sm-6 col-lg-3">
-							<h3 class="uppercase letter-spacing-1">mono</h3>
+							<img class="logo-footer" src="{{ public_path().'/assets/images/aurega/logo.jpeg' }}" alt="Aurega Corporate Services">
 						</div>
 						<div class="col-6 col-sm-6 col-lg-3">
 							<h6 class="font-small fw-medium uppercase">Useful Links</h6>
 							<ul class="list-dash animate-links">
-								<li><a href="#">About us</a></li>
-								<li><a href="#">Team</a></li>
-								<li><a href="#">Prices</a></li>
+								<li><a href="/about">About Aurega</a></li>
+								<li><a href="#">Services</a></li>
 								<li><a href="#">Contact</a></li>
+								<li><a href="#">Careers</a></li>
 							</ul>
 						</div>
 						<div class="col-6 col-sm-6 col-lg-3">
-							<h6 class="font-small fw-medium uppercase">Additional Links</h6>
+							<h6 class="font-small fw-medium uppercase">Services We offered</h6>
 							<ul class="list-dash animate-links">
-								<li><a href="#">Services</a></li>
-								<li><a href="#">Process</a></li>
-								<li><a href="#">FAQ</a></li>
-								<li><a href="#">Careers</a></li>
+								<li><a href="#">Company Incorporation</a></li>
+								<li><a href="#">Golden Visa</a></li>
+								<li><a href="#">Management Consulting</a></li>								
 							</ul>
 						</div>
 						<div class="col-6 col-sm-6 col-lg-3">
@@ -112,15 +111,7 @@
 				<div class="container">
 					<div class="row align-items-center g-2 g-lg-3">
 						<div class="col-12 col-md-6 text-center text-md-start">
-							<p>&copy; 2023 FlaTheme, All Rights Reserved.</p>
-						</div>
-						<div class="col-12 col-md-6 text-center text-md-end">
-							<ul class="list-inline-sm">
-								<li><a class="button-circle button-circle-sm button-circle-social-facebook" href="#"><i class="bi bi-facebook"></i></a></li>
-								<li><a class="button-circle button-circle-sm button-circle-social-twitter" href="#"><i class="bi bi-twitter"></i></a></li>
-								<li><a class="button-circle button-circle-sm button-circle-social-pinterest" href="#"><i class="bi bi-pinterest"></i></a></li>
-								<li><a class="button-circle button-circle-sm button-circle-social-instagram" href="#"><i class="bi bi-instagram"></i></a></li>
-							</ul>
+							<p>&copy; {{ date('Y') }} Aurega Corporate Services, All Rights Reserved.</p>
 						</div>
 					</div><!-- end row -->
 				</div><!-- end container -->
@@ -135,7 +126,7 @@
 
 		<!-- ***** JAVASCRIPTS ***** -->
 		<script src="{{ public_path().'/assets/plugins/jquery.min.js' }}"></script>
-		<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+		<script src="https://maps.googleapis.com/maps/api/js"></script>
 		<script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
 		<script src="{{ public_path().'/assets/plugins/plugins.js' }}"></script>
 		<script src="{{ public_path().'/assets/js/functions.js' }}"></script>

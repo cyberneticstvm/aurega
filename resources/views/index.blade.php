@@ -20,7 +20,7 @@
         <div class="row g-4">
             <!-- Feature box 1 -->
             <div class="col-12 col-lg-4">
-                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/test.jpg' }}" alt="">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-men-women-work.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h5 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation</span></h5>
                     <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
@@ -29,7 +29,7 @@
             </div>
             <!-- Feature box 2 -->
             <div class="col-12 col-lg-4">
-                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/test.jpg' }}" alt="">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-smiley-woman-with-passport.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h5 class="fw-light text-center">We do<br><span class="fw-normal">Golden Visa</span></h5>
                     <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
@@ -38,7 +38,7 @@
             </div>
             <!-- Feature box 3 -->
             <div class="col-12 col-lg-4">
-                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/test.jpg' }}" alt="">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/male-female-office-workers.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h5 class="fw-light text-center">We do<br><span class="fw-normal">Management Consulting</span></h5>
                     <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
@@ -53,90 +53,20 @@
     <div class="container">
         <div class="row align-items-center g-5">
             <div class="col-12 col-lg-6 col-xl-7">
-                <img class="border-radius" src="../assets/images/col-1.jpg" alt="">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/minimalistic-business-desk-arrangement.jpg' }}" alt="">
             </div>
             <div class="col-12 col-lg-6 col-xl-5">
                 <h2 class="fw-normal">About Aurega</h2>
                 <p class="text-justify">Aurega Group is the global gateway to multidisciplinary business requirements. We're one of the most trusted business setup advisory establishments which give comprehensive professional services to individuals, associations and large corporates. As we've times of experience in serving the trade and new business sector universally, we give largely substantiated business setup services and veritable cooperative platform to our clients.</p>
-                <!-- Progress bars -->
-                <div class="mt-4">
-                    <!-- Progress bar box 1 -->
-                    <div class="progress-box progress-spring-red">
-                        <h6 class="fw-medium">Social Marketing</h6>
-                        <div class="animated-progress">
-                            <div data-progress="94"></div>
-                        </div>
-                    </div>
-                    <!-- Progress bar box 2 -->
-                    <div class="progress-box progress-spring-red mt-4">
-                        <h6 class="fw-medium">Sales Training</h6>
-                        <div class="animated-progress">
-                            <div data-progress="88"></div>
-                        </div>
-                    </div>
-                    <!-- Progress bar box 3 -->
-                    <div class="progress-box progress-spring-red mt-4">
-                        <h6 class="fw-medium">Copywriting</h6>
-                        <div class="animated-progress">
-                            <div data-progress="92"></div>
-                        </div>
-                    </div>
-                </div>
-                <!-- end Progress bars -->
+                <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Know More</a></div>
             </div>
         </div><!-- end row -->
     </div>
 </div>
 <!-- end About section -->
 
-<!-- Clients section -->
-<div class="section">
-    <div class="container">
-        <div class="mb-5">
-            <div class="row text-center">
-                <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-                    <h2 class="fw-light">Our Amazing Clients</h2>
-                </div>
-            </div>
-        </div>
-        <ul class="clients-grid column-5">
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-            <li>
-                <a href="#"><img src="../assets/images/col-5.jpg" alt=""></a>
-            </li>
-        </ul>
-    </div><!-- end container -->
-</div>
-<!-- end Clients section -->
-
 <!-- Testimonial section -->
-<div class="section-xl bg-image parallax" data-bg-src="../assets/images/background.jpg">
+<div class="section-xl bg-image parallax" data-bg-src="{{ public_path().'/assets/images/aurega/aerial-view-business-team.jpg' }}">
     <div class="bg-dark-05">
         <div class="container">
             <div class="owl-carousel" data-owl-dots="false" data-owl-nav="true" data-owl-margin="30" data-owl-xs="1" data-owl-sm="1" data-owl-md="1" data-owl-lg="2" data-owl-xl="2">
@@ -148,10 +78,10 @@
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Emiley Haley</h5>
-                            <span class="font-small text-white-09">Manager - Mono</span>
+                            <span class="font-small text-white-09">Manager - Cybernetics</span>
                         </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="text-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                 </div>
                 <!-- Testimonial Slider Item 2 -->
                 <div class="bg-color-spring-red-07 border-radius p-5">
@@ -161,10 +91,10 @@
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Andrew Palmer</h5>
-                            <span class="font-small text-white-09">Developer - Mono</span>
+                            <span class="font-small text-white-09">Developer - Enieco</span>
                         </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="text-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                 </div>
                 <!-- Testimonial Slider Item 3 -->
                 <div class="bg-color-spring-red-07 border-radius p-5">
@@ -174,10 +104,10 @@
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Anna Mullen</h5>
-                            <span class="font-small text-white-09">Designer - Mono</span>
+                            <span class="font-small text-white-09">Designer - Energy Engineering</span>
                         </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="text-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                 </div>
                 <!-- Testimonial Slider Item 4 -->
                 <div class="bg-color-spring-red-07 border-radius p-5">
@@ -229,9 +159,10 @@
                                 <input type="email" id="email" name="email" placeholder="E-Mail" required>
                             </div>
                         </div>
+                        <input type="text" id="contact" name="contact" placeholder="Contact Number" required>
                         <input type="text" id="subject" name="subject" placeholder="Subject" required>
                         <textarea name="message" id="message" placeholder="Message"></textarea>
-                        <button class="button button-lg button-spring-red button-radius" type="submit">Send Message</button>
+                        <div><a class="button button-sm btn-warnig mt-3" href="#">SUBMIT</a></div>
                     </form>
                     <!-- Submit result -->
                     <div class="submit-result">
