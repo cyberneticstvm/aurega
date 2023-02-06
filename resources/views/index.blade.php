@@ -24,7 +24,7 @@
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h5 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation</span></h5>
                     <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
-                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Talk</a></div>
+                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/aurega-company-incorporation">Let's Talk</a></div>
                 </div>
             </div>
             <!-- Feature box 2 -->
@@ -32,17 +32,17 @@
                 <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-smiley-woman-with-passport.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h5 class="fw-light text-center">We do<br><span class="fw-normal">Golden Visa</span></h5>
-                    <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
-                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Talk</a></div>
+                    <p class="text-justify">The United Arab Emirates (UAE) recently decided to issue a 10-year golden visa to professionals that will include engineers, physicians, Ph.Ds. who are from UAE accredited universities.</p>
+                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/aurega-golden-visa">Let's Talk</a></div>
                 </div>
             </div>
             <!-- Feature box 3 -->
             <div class="col-12 col-lg-4">
                 <img class="border-radius" src="{{ public_path().'/assets/images/aurega/male-female-office-workers.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Management Consulting</span></h5>
-                    <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
-                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Talk</a></div>
+                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Business Consulting</span></h5>
+                    <p class="text-justify">Aurega helps to create greater opportunities with open technology and the new work of modern business. Let’s create new ways for Business to do Business.</p>
+                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/aurega-management-consulting">Let's Talk</a></div>
                 </div>
             </div>
         </div><!-- end row -->
@@ -74,7 +74,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="../assets/images/img-avatar-sm.jpg" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Emiley Haley</h5>
@@ -87,7 +87,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="../assets/images/img-avatar-sm.jpg" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Andrew Palmer</h5>
@@ -100,7 +100,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="../assets/images/img-avatar-sm.jpg" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Anna Mullen</h5>
@@ -113,7 +113,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="../assets/images/img-avatar-sm.jpg" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">John Smith</h5>
@@ -136,15 +136,16 @@
             <div class="col-12 col-md-4">
                 <div class="mb-4">
                     <h6 class="fw-medium m-0">Phone:</h6>
-                    <p>+(987) 654 321 01</p>
+                    <p>+(971) 52 868 6158</p>
+                    <p>+(971) 50 693 9558</p>
                 </div>
                 <div class="mb-4">
                     <h6 class="fw-medium m-0">Email:</h6>
-                    <p>contact@email.com</p>
+                    <p>mail@auregacs.com</p>
                 </div>
                 <div>
                     <h6 class="fw-medium m-0">Address:</h6>
-                    <p>121 King St, Melbourne VIC 3000</p>
+                    <p>Dubai, UAE</p>
                 </div>
             </div>
             <!-- Contact Form -->

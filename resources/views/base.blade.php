@@ -44,13 +44,17 @@
 						<li class="nav-item">
 							<a class="nav-link" href="#">Services</a>
 							<ul class="nav-dropdown">
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Company Registration</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Golden Visa</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Management Consulting</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/aurega-company-incorporation">Company Incorporation</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/aurega-golden-visa">Golden Visa</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/aurega-management-consulting">Business Consulting</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">Trade Licenses</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">PRO Services</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">Intellectual Property</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">Accounting & Book-keeping</a></li>
 							</ul>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Contact Us</a>
+							<a class="nav-link" href="/contact">Contact Us</a>
 						</li>
 					</ul>
 				</div>
@@ -83,25 +87,30 @@
 							<h6 class="font-small fw-medium uppercase">Useful Links</h6>
 							<ul class="list-dash animate-links">
 								<li><a href="/about">About Aurega</a></li>
-								<li><a href="#">Services</a></li>
-								<li><a href="#">Contact</a></li>
-								<li><a href="#">Careers</a></li>
+								<li><a href="/services">Services</a></li>
+								<li><a href="/contact">Contact</a></li>
+								<li><a href="/careers">Careers</a></li>
 							</ul>
 						</div>
 						<div class="col-6 col-sm-6 col-lg-3">
 							<h6 class="font-small fw-medium uppercase">Services We offered</h6>
 							<ul class="list-dash animate-links">
-								<li><a href="#">Company Incorporation</a></li>
-								<li><a href="#">Golden Visa</a></li>
-								<li><a href="#">Management Consulting</a></li>								
+								<li><a href="/aurega-company-incorporation">Company Incorporation</a></li>
+								<li><a href="/aurega-golden-visa">Golden Visa</a></li>
+								<li><a href="/aurega-management-consulting">Management Consulting</a></li>
+								<li><a href="/">Trade Licenses</a></li>
+								<li><a href="/">PRO Services</a></li>
+								<li><a href="/">Intellectual Property</a></li>
+								<li><a href="/">Accounting & Book-keeping</a></li>								
 							</ul>
 						</div>
 						<div class="col-6 col-sm-6 col-lg-3">
 							<h6 class="font-small fw-medium uppercase">Contact Info</h6>
 							<ul class="list-unstyled">
-								<li>121 King St, Melbourne VIC 3000</li>
-								<li>contact@example.com</li>
-								<li>+(123) 456 789 01</li>
+								<li>Dubai, UAE</li>
+								<li>mail@auregacs.com</li>
+								<li>+(971) 52 868 6158</li>
+								<li>+(971) 50 693 9558</li>
 							</ul>
 						</div>
 					</div><!-- end row -->
