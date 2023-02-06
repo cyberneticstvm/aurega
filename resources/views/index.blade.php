@@ -58,7 +58,7 @@
             <div class="col-12 col-lg-6 col-xl-5">
                 <h2 class="fw-normal">About Aurega</h2>
                 <p class="text-justify">Aurega Group is the global gateway to multidisciplinary business requirements. We're one of the most trusted business setup advisory establishments which give comprehensive professional services to individuals, associations and large corporates. As we've times of experience in serving the trade and new business sector universally, we give largely substantiated business setup services and veritable cooperative platform to our clients.</p>
-                <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="#">Let's Know More</a></div>
+                <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/about">Let's Know More</a></div>
             </div>
         </div><!-- end row -->
     </div>

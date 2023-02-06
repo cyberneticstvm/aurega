@@ -40,7 +40,7 @@
                     <i class="bi bi-check2-square text-turquiose"></i>
                 </div>
                 <h5 class="fw-normal">Trade Licenses</h5>
-                <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
+                <p class="text-justify">Trade licenses in UAE are required for many types of business activities, ranging from service providers, retailers, and commercial agents to industrial and manufacturing activities. . Obtaining a trade license in UAE is the first and most important step to legally setting up any type of business in the country. We provide assistance to obtaining Trade Licenses with significant cost savings.</p>
             </div>
             <!-- Service box 5 -->
             <div class="col-12 col-md-6 col-lg-4">
@@ -48,7 +48,7 @@
                     <i class="bi bi-clipboard2-check text-turquiose"></i>
                 </div>
                 <h5 class="fw-normal">PRO Services</h5>
-                <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
+                <p class="text-justify">Aurega provide assistance to companies and individuals in obtaining visas, obtaining trade licenses, and much more. We have experienced professionals who are well-versed in the legal and regulatory framework of the UAE. We can help to optimize the process of obtaining the necessary approvals and documents, which can result in significant cost savings.</p>
             </div>
             <!-- Service box 6 -->
             <div class="col-12 col-md-6 col-lg-4">
@@ -56,7 +56,7 @@
                     <i class="bi bi-lightbulb text-turquiose"></i>
                 </div>
                 <h5 class="fw-normal">Intellectual Property</h5>
-                <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
+                <p class="text-justify">Intellectual property rights in the United Arab Emirates are protected by laws and regulations enacted by the government. These laws are designed to protect the intellectual property of companies, individuals and organizations operating in the UAE. It protects copyright, trademarks, patents, industrial designs and trade secrets. We helps to protect your ideas.</p>
             </div>
         </div><!-- end row -->
         <div class="mt-5 text-center">
