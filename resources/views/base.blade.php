@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="">
         <meta name="keywords" content="">
-		<title>Business Setup and Golden Visa in Dubai and UAE 2023</title>
+		<title>{{ $title }}</title>
 		<!-- Favicon -->
         <link href="{{ public_path().'/assets/images/favicon.png' }}" rel="shortcut icon">
 		<!-- CSS -->
@@ -44,13 +44,12 @@
 						<li class="nav-item">
 							<a class="nav-link" href="#">Services</a>
 							<ul class="nav-dropdown">
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/aurega-company-incorporation">Company Incorporation</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/aurega-golden-visa">Golden Visa</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/aurega-management-consulting">Business Consulting</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">Trade Licenses</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">PRO Services</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">Intellectual Property</a></li>
-								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/">Accounting & Book-keeping</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/services/company-incorporation-and-trade-license">Company Incorporation & Trade Licenses</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/services/golden-visa">Golden Visa</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/services/business-consulting">Business Consulting</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/services/accounting-and-book-keeping">Accounting & Book-keeping</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/services/pro-service">PRO Services</a></li>
+								<li class="nav-dropdown-item"><a class="nav-dropdown-link" href="/services/trademark-registration-and-intellectual-property">Trademark Registration & Intellectual Property</a></li>
 							</ul>
 						</li>
 						<li class="nav-item">

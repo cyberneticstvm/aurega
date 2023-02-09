@@ -27,9 +27,9 @@
                 <div class="col-12 col-lg-4">
                     <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-men-women-work.jpg' }}" alt="">
                     <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                        <h5 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation</span></h5>
+                        <h5 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation & Trade Licenses</span></h5>
                         <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
-                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/aurega-company-incorporation">Let's Talk</a></div>
+                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/company-incorporation-and-trade-license">Let's Talk</a></div>
                     </div>
                 </div>
                 <!-- Feature box 2 -->
@@ -37,8 +37,8 @@
                     <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-smiley-woman-with-passport.jpg' }}" alt="">
                     <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                         <h5 class="fw-light text-center">We do<br><span class="fw-normal">Golden Visa</span></h5>
-                        <p class="text-justify">The United Arab Emirates (UAE) recently decided to issue a 10-year golden visa to professionals that will include engineers, physicians, Ph.Ds. who are from UAE accredited universities.</p>
-                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/aurega-golden-visa">Let's Talk</a></div>
+                        <p class="text-justify">The United Arab Emirates (UAE) recently decided to issue a 10-year golden visa to professionals that will include foreign investors, entrepreneurs, engineers, physicians, Ph.Ds. who are from UAE accredited universities.</p>
+                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/golden-visa">Let's Talk</a></div>
                     </div>
                 </div>
                 <!-- Feature box 3 -->
@@ -46,8 +46,8 @@
                     <img class="border-radius" src="{{ public_path().'/assets/images/aurega/male-female-office-workers.jpg' }}" alt="">
                     <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                         <h5 class="fw-light text-center">We do<br><span class="fw-normal">Business Consulting</span></h5>
-                        <p class="text-justify">Aurega helps to create greater opportunities with open technology and the new work of modern business. Let’s create new ways for Business to do Business.</p>
-                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/aurega-management-consulting">Let's Talk</a></div>
+                        <p class="text-justify">Aurega helps to create greater opportunities and the new work of modern business. Let’s create new ways for Business to do Business who wants to increase their efficiency and gain a competitive edge in the marketplace.</p>
+                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/business-consulting">Let's Talk</a></div>
                     </div>
                 </div>
             </div><!-- end row -->
@@ -56,9 +56,9 @@
                 <div class="col-12 col-lg-4">
                     <img class="border-radius" src="{{ public_path().'/assets/images/aurega/consulting-with-lawyer.jpg' }}" alt="">
                     <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                        <h5 class="fw-light text-center">We do<br><span class="fw-normal">Trade Licenses</span></h5>
+                        <h5 class="fw-light text-center">We do<br><span class="fw-normal">Accounting & Book-keeping</span></h5>
                         <p class="text-justify">Trade licenses in UAE are required for many types of business activities, ranging from service providers, retailers, and commercial agents to industrial and manufacturing activities. . Obtaining a trade license in UAE is the first and most important step to legally setting up any type of business in the country. We provide assistance to obtaining Trade Licenses with significant cost savings.</p>
-                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/">Let's Talk</a></div>
+                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/accounting-and-book-keeping">Let's Talk</a></div>
                     </div>
                 </div>
                 <!-- Feature box 2 -->
@@ -67,16 +67,16 @@
                     <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                         <h5 class="fw-light text-center">We do<br><span class="fw-normal">PRO Services</span></h5>
                         <p class="text-justify">Aurega provide assistance to companies and individuals in obtaining visas, obtaining trade licenses, and much more. We have experienced professionals who are well-versed in the legal and regulatory framework of the UAE. We can help to optimize the process of obtaining the necessary approvals and documents, which can result in significant cost savings.</p>
-                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/">Let's Talk</a></div>
+                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/pro-service">Let's Talk</a></div>
                     </div>
                 </div>
                 <!-- Feature box 3 -->
                 <div class="col-12 col-lg-4">
                     <img class="border-radius" src="{{ public_path().'/assets/images/aurega/hand-design-identity-branding-business-trademark.jpg' }}" alt="">
                     <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                        <h5 class="fw-light text-center">We do<br><span class="fw-normal">Intellectual Property</span></h5>
-                        <p class="text-justify">Intellectual property rights in the United Arab Emirates are protected by laws and regulations enacted by the government. These laws are designed to protect the intellectual property of companies, individuals and organizations operating in the UAE. It protects copyright, trademarks, patents, industrial designs and trade secrets. We helps to protect your ideas.</p>
-                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/">Let's Talk</a></div>
+                        <h5 class="fw-light text-center">We do<br><span class="fw-normal">Trademark Registration & Intellectual Property</span></h5>
+                        <p class="text-justify">Intellectual property rights in the United Arab Emirates are protected by laws and regulations enacted by the government. These laws are designed to protect the intellectual property of companies, individuals and organizations operating in the UAE. It protects copyright, trademarks, patents, industrial designs and trade secrets.</p>
+                        <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/trademark-registration-and-intellectual-property">Let's Talk</a></div>
                     </div>
                 </div>
             </div><!-- end row -->

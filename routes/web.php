@@ -14,26 +14,46 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    $title = 'Business Setup and Golden Visa in Dubai and UAE '.date('Y');
+    return view('index', compact('title'));
 });
 Route::get('/about', function () {
-    return view('about');
+    $title = 'Aurega Corporate Services - About';
+    return view('about', compact('title'));
 });
 Route::get('/services', function () {
-    return view('services');
+    $title = 'Aurega Corporate Services - Services Offer';
+    return view('services', compact('title'));
 });
 Route::get('/careers', function () {
-    return view('careers');
+    $title = 'Aurega Corporate Services - Careers';
+    return view('careers', compact('title'));
 });
 Route::get('/contact', function () {
-    return view('contact');
+    $title = 'Aurega Corporate Services - Contact';
+    return view('contact', compact('title'));
 });
-Route::get('/aurega-company-incorporation', function () {
-    return view('company-incorporation');
+Route::get('/services/company-incorporation-and-trade-license', function () {
+    $title = 'Aurega - Company Incorporation and Trade Licenses';
+    return view('services.company-incorporation', compact('title'));
 });
-Route::get('/aurega-golden-visa', function () {
-    return view('golden-visa');
+Route::get('/services/golden-visa', function () {
+    $title = 'Aurega - Golden Visa';
+    return view('services.golden-visa', compact('title'));
 });
-Route::get('/aurega-management-consulting', function () {
-    return view('management-consulting');
+Route::get('/services/business-consulting', function () {
+    $title = 'Aurega - Business Consulting';
+    return view('services.business-consulting', compact('title'));
+});
+Route::get('/services/accounting-and-book-keeping', function () {
+    $title = 'Aurega - Accounting and Book-keeping';
+    return view('services.accounting', compact('title'));
+});
+Route::get('/services/pro-service', function () {
+    $title = 'Aurega - PRO Services';
+    return view('services.pro', compact('title'));
+});
+Route::get('/services/trademark-registration-and-intellectual-property', function () {
+    $title = 'Aurega - trademark Registration and Intellectual Property';
+    return view('services.trademark', compact('title'));
 });
