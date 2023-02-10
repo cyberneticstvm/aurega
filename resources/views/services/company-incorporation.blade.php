@@ -1,22 +1,19 @@
 @extends("base")
 @section("content")
-<!-- About section -->
 <div class="section">
     <div class="container">
-        <div class="mb-5">
-            <div class="row g-4">
-                <div class="col-12">
-                    <h2>Company Incorporation & Trade Licenses</h2>
-                    <p class="text-justify">Company incorporation in the United Arab Emirates (UAE) is a complex procedure that requires a team of professionals to handle the various steps required to accomplish the process. The first step is to decide the type of business entity to be incorporated. The most common form of business entity is a limited liability company. The next step is to select and register the trade name for the company. Following this, the company must obtain licenses from the relevant authorities and complete the necessary paperwork. Once the company is registered, the company must register with the Ministry of Labor, establish a company bank account, and register any intellectual property rights.</p>
-                    <p class="text-justify">Trade licenses in the United Arab Emirates (UAE) are divided into two categories: industrial and commercial. Industrial licenses are required for manufacturing activities and commercial licenses are required for services and trading. The type of license required depends on the type of business and the location. The process of obtaining a trade license involves registration with the relevant authorities, providing documents such as the Memorandum of Association and Articles of Association, and obtaining approval from the Ministry of Economy. Once the license is obtained, the company must renew it annually and ensure that the license is kept up to date with the latest regulations.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col text-center">
+        <div class="row g-4 g-lg-5 align-items-center">
+            <div class="col-12 col-lg-5 col-xl-6">
                 <img src="{{ public_path().'/assets/images/aurega/services/company-incorporation.jpg' }}" alt="Company Incorporation">
             </div>
-        </div>
+            <div class="col-12 col-lg-7 col-xl-6">
+                <h2>Company Incorporation & Trade Licenses</h2>
+                <p class="text-justify">Company incorporation in the United Arab Emirates (UAE) is a complex procedure that requires a team of professionals to handle the various steps required to accomplish the process. The first step is to decide the type of business entity to be incorporated. The most common form of business entity is a limited liability company. The next step is to select and register the trade name for the company. Following this, the company must obtain licenses from the relevant authorities and complete the necessary paperwork. Once the company is registered, the company must register with the Ministry of Labor, establish a company bank account, and register any intellectual property rights.</p>						
+            </div>
+            <div class="col-12">
+                <p class="text-justify">Trade licenses in the United Arab Emirates (UAE) are divided into two categories: industrial and commercial. Industrial licenses are required for manufacturing activities and commercial licenses are required for services and trading. The type of license required depends on the type of business and the location. The process of obtaining a trade license involves registration with the relevant authorities, providing documents such as the Memorandum of Association and Articles of Association, and obtaining approval from the Ministry of Economy. Once the license is obtained, the company must renew it annually and ensure that the license is kept up to date with the latest regulations.</p>
+            </div>
+        </div><!-- end row -->
         <div class="row mt-5">
             <div class="col-12">
                 <h4 class="fw-light">We offer <span class="fw-normal">business setup in</span></h4>
@@ -25,7 +22,7 @@
                         <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#first">FREE ZONES</button>
                     </li>
                     <li class="nav-item">
-                        <button class="nav-link" data-bs-toggle="tab" data-bs-target="#second">ONSHORE</button>
+                        <button class="nav-link" data-bs-toggle="tab" data-bs-target="#second">MAINLAND</button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#third">OFFSHORE</button>
@@ -41,7 +38,6 @@
                                 </div>
                                 <div class="accordion-content">
                                     <p class="text-justify">The Dubai International Financial Centre (DIFC) is one of the world’s leading financial hubs, offering a wide range of services for businesses looking to set up in the region. The DIFC provides a secure and regulated environment for companies to do business in the Middle East, with a variety of incentives and benefits for businesses, including tax-free trading, 100% foreign ownership and a supportive legal, regulatory and commercial infrastructure. Companies are able to access a range of services, including company formation, banking and financial services, legal and accounting services, leasing, and asset management. The DIFC also hosts a range of industry events and offers a variety of networking opportunities for businesses to expand and grow. With its attractive advantages, the DIFC is an ideal location for companies looking to expand their operations in the region.</p>
-                                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/">KNOW MORE</a></div>
                                 </div>
                             </li>
                             <li>
@@ -50,7 +46,6 @@
                                 </div>
                                 <div class="accordion-content">
                                     <p class="text-justify">Dubai AGDM business setup is a comprehensive business set up service that helps entrepreneurs quickly and efficiently launch their companies in Dubai. It provides bespoke solutions to clients, ensuring that they get the most out of their investment. The team of experts at Dubai AGDM business setup provide services such as visa processing, corporate structure setup, market research, feasibility studies, business plan writing, registration of business, and more. They also provide post-setup support to help ensure that clients get the most out of their investment. Their team of experienced professionals have extensive experience in the UAE market and will work with clients to ensure that their businesses are established in the best possible manner.</p>
-                                    <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/">KNOW MORE</a></div>
                                 </div>
                             </li>
                             <li>
@@ -132,18 +127,50 @@
                         <ul class="accordion single-open style-2 mt-3">
                             <li>
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Professional Service License</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Limited liability company (LLC)</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai Professional Service License is a permit issued by the Department of Economic Development (DED) in Dubai, which allows businesses to offer professional services in the UAE. This license is ideal for any business looking to provide professional services such as consulting, legal services, accounting and auditing services, IT services, engineering services, and more. It is important to note that the DED requires a local partner for the Professional Service License, and the foreign partner must hold a majority stake in the business. The DED also requires that all partners meet certain qualifications such as having a college degree and professional experience. Once the license is approved, the business will be able to provide professional services within the UAE.</p>
+                                    <p class="text-justify">LLCs are governed by the United Arab Emirates Commercial Companies Law and are suitable for commercial activities such as trading, professional services and manufacturing. LLCs offer limited liability protection to their shareholders, making them a popular choice for investors and entrepreneurs. LLCs can also be used to hold real estate and intellectual property rights, and are the preferred choice for businesses seeking foreign investment.</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">LLC License</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Limited partnership company (UAE nationals only)</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai LLC License is a form of legal registration that is required for any business that operates in the United Arab Emirates. It is a legal requirement for setting up a limited liability company in Dubai. The Dubai LLC License is a pre-requisite for companies to register with the relevant government authorities and to obtain the necessary permissions to operate in the country. It is also important for companies to obtain the necessary visas and permits that are required to be able to do business in Dubai. The license is typically issued by the Department of Economic Development in Dubai and is valid for one year.</p>
+                                    <p class="text-justify">An LLC can have up to 50 shareholders, each of whom is liable only to the extent of his or her share in the capital of the company. LLCs are authorised to conduct any industrial or commercial business, but not professional (to practice law, auditing, accountancy or any other type of consulting service). – except banking, insurance or investment. An LLC must be 51% owned by UAE Nationals, although the Memorandum of Association can distribute profits in a different ratio. In the interests of an open, honest and transparent economy, the LLC must appoint a UAE accredited auditor. In case of the death of any partner, his or her shares are transferred to the heirs mentioned in the will. Shares of an LLC cannot be offered to the public. The company may not resort to public subscription to establish or increase its capital, or to secure loans, and it may not issue any negotiable stocks or shares. Between one and five managers must be appointed for the business. The managers may be selected from the partners or may be any other parties. Managers must be appointed by a Memorandum of Association or by a management contract, for a fixed term or an unlimited term. Managers can also be appointed by the General Assembly of the partners. Unless the Memorandum of Association states otherwise, the manager has full powers of administration. Within the scope of his or her powers, the manager’s actions and commitments are binding on the business.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Sole proprietorship</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">A professional business sole proprietorship covers a range of professions from owning a restaurant to a consultancy firm. Sole proprietorships providing services require a Local Service Agent (LSA) if they are owned by a National of a country other than the UAE or GCC countries. The local service agent is a UAE National who manages licensing requirements and other government-related matters for your business, in exchange for an annual fee. A sole proprietorship can only be owned by an individual, not a company. 100% ownership of this business, control all of its operations and 100% of any profits remains with the owner. Likewise, in case of any financial obligation or business debt the 100% onus remains on the owner to fulfill the same. A professional type sole proprietorship may be owned by an individual of any nationality for providing services that are lawfully permitted. A sole proprietorship that is industrial or commercial can be owned only by UAE Nationals or GCC Nationals.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Branch of a foreign company</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">A very popular way for foreign companies to benefit from 100% foreign ownership is to open a branch office of the parent company. A branch office is lawfully regarded as part of its parent company and does not have a separate legal identity from that of its parent company. Thus, the name of the branch office will be the same as that of the parent company. Branch offices are required to have a UAE national as a local service agent. UAE nationals or companies 100% owned by UAE nationals may be appointed as local service agents. The local service agent manages licensing requirements and other government-related matters for your business, in exchange for an annual fee. A branch office in the UAE may only be engaged in activities service similar to those of the parent company. It is important to note that a branch office is not permitted to carry on the commercial business within the UAE. A Representative Office of a foreign company is legally distinct from the branch office. A representative office of a foreign company is only permitted to promote the sale of its products and facilitate contracts with its parent in the UAE. A Representative Office cannot conduct a sale or production by itself. In addition to the above limitations, representative offices have other restrictions in that they are not allowed to obtain credit facilities or put forward offers. As in the case of a branch office, it is necessary when establishing a representative office to appoint a local service agent.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Representative office of a foreign company</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">A very popular way for foreign companies to benefit from 100% foreign ownership is to open a branch office of the parent company. A branch office is lawfully regarded as part of its parent company and does not have a separate legal identity from that of its parent company. Thus, the name of the branch office will be the same as that of the parent company. Branch offices are required to have a UAE national as a local service agent. UAE nationals or companies 100% owned by UAE nationals may be appointed as local service agents. The local service agent manages licensing requirements and other government-related matters for your business, in exchange for an annual fee. A branch office in the UAE may only be engaged in activities service similar to those of the parent company. It is important to note that a branch office is not permitted to carry on the commercial business within the UAE. A Representative Office of a foreign company is legally distinct from the branch office. A representative office of a foreign company is only permitted to promote the sale of its products and facilitate contracts with its parent in the UAE. A Representative Office cannot conduct a sale or production by itself. In addition to the above limitations, representative offices have other restrictions in that they are not allowed to obtain credit facilities or put forward offers. As in the case of a branch office, it is necessary when establishing a representative office to appoint a local service agent.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Corporate shareholding company</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">CSC offers a wide range of services and solutions including corporate structuring, corporate finance, corporate governance, corporate restructuring, international tax planning, business setup, business consultancy, and more. They also provide a comprehensive suite of services related to corporate shareholding and investments, including shareholding management, transfer of ownership, and share valuation.</p>
                                 </div>
                             </li>
                         </ul>
@@ -167,13 +194,74 @@
                                     <p class="text-justify">Jabel Ali Business Setup is an innovative and comprehensive business setup service provider in Dubai, UAE. They have been providing business setup services in Dubai since 2003 and are the preferred choice for entrepreneurs looking to open a business in Dubai. They provide complete solutions to help entrepreneurs and companies set up their business operations in Dubai, ranging from initial planning to complete registration and licensing. They assist with corporate bank accounts, legal and accounting services, visas and visas-related services, and provide a broad range of services to make the business setup process easier and more efficient. With their experienced team of professionals, they make sure that every business setup is done perfectly, quickly, and according to the UAE regulations.</p>
                                 </div>
                             </li>
+                            <li>
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">RAKICC</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">One of the key benefits of setting up a business in RAKICC is that it offers 100% foreign ownership and zero corporate and personal income tax. This makes it an attractive option for companies looking to establish a presence in the Middle East region. The free zone also offers a range of facilities and services to support businesses, including office space, meeting rooms, and virtual office options. In addition to its tax and business-friendly environment, RAKICC has also made significant investments in infrastructure, including modern transportation networks and high-speed broadband, to ensure that businesses have access to the resources they need to succeed.</p>
+                                </div>
+                            </li>
                         </ul>
                     </div>
-                    <div class="text-center mt-5"><a class="button button-sm btn-warnig mt-3" href="/contact">APPLY NOW</a></div>
+                    <div class="text-center mt-5"><a class="button button-sm btn-warnig mt-3 mb-3" href="/contact">KNOW MORE</a></div>
                 </div>
+            </div>
+            <div class="col-12">
+                <h4 class="fw-light">We offer follwoing <span class="fw-normal">Trade Licenses</span></h4>
+                <p class="text-justify">Trade licenses in the United Arab Emirates (UAE) are divided into two categories: industrial and commercial. Industrial licenses are required for manufacturing activities and commercial licenses are required for services and trading. The type of license required depends on the type of business and the location. The process of obtaining a trade license involves registration with the relevant authorities, providing documents such as the Memorandum of Association and Articles of Association, and obtaining approval from the Ministry of Economy. Once the license is obtained, the company must renew it annually and ensure that the license is kept up to date with the latest regulations. The type of license required depends on the type of business and the location.</p>
+                <ul class="accordion single-open style-2 mt-3">
+                    <li class="">
+                        <div class="accordion-title">
+                            <h6 class="font-family-tertiary font-small fw-medium uppercase">Industrial License</h6>
+                        </div>
+                        <div class="accordion-content">
+                            <p class="text-justify">Required for Manufactring Activities</p>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="accordion-title">
+                            <h6 class="font-family-tertiary font-small fw-medium uppercase">Commercial License</h6>
+                        </div>
+                        <div class="accordion-content">
+                            <p class="text-justify">Required for Trading Activities</p>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="accordion-title">
+                            <h6 class="font-family-tertiary font-small fw-medium uppercase">Professional License</h6>
+                        </div>
+                        <div class="accordion-content">
+                            <p class="text-justify">Required for Service based Activities</p>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="accordion-title">
+                            <h6 class="font-family-tertiary font-small fw-medium uppercase">Crafts License</h6>
+                        </div>
+                        <div class="accordion-content">
+                            <p class="text-justify">Allows individuals or companies to engage in craft-related activities, such as pottery, weaving, jewelry making, and other similar activities.</p>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="accordion-title">
+                            <h6 class="font-family-tertiary font-small fw-medium uppercase">Tourism License</h6>
+                        </div>
+                        <div class="accordion-content">
+                            <p class="text-justify">Allows companies to engage in tourism-related activities, such as hotel and resort management, tour operator services, and travel agency services.</p>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="accordion-title">
+                            <h6 class="font-family-tertiary font-small fw-medium uppercase">Agricultural License</h6>
+                        </div>
+                        <div class="accordion-content">
+                            <p class="text-justify">Allows individuals or companies to engage in agricultural-related activities, such as farming, cultivation, and the production of crops and livestock.</p>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
     </div><!-- end container -->
 </div>
-<!-- end About section -->
 @endsection
