@@ -121,22 +121,6 @@
                             </li>
                             <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Commercity Free Zone</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Dubai CommerCity is strategically situated at the centre of the regional trade route that provides easy access to more than 2 billion people within a 2-hour flight radius. Dubai CommerCity will be the first dedicated e-commerce free zone in Middle East, North Africa and South Asia. The first phase represents a “business cluster” with more than 320.00 square feet offices and 145.00 square feet logistics units. Moreover, there is a “multi-client warehouses”. The warehouses will be held in a logistics cluster, administered by Hellmann Worldwide Logistics as well as DHL. 51% of the warehouse space is already leased.</p>
-                                </div>
-                            </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Virtual Commercial City</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Dubai Virtual Commercial City (VCC) is an ambitious project by the Dubai government that will be a new hub for trade, innovation, and e-commerce. It's designed to make Dubai the first global city for trade in digital commerce. The VCC will be a free trade zone with no taxes, tariffs, or quotas on any imported goods.</p>
-                                </div>
-                            </li>
-                            <li class="">
-                                <div class="accordion-title">
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Internet City</h6>
                                 </div>
                                 <div class="accordion-content">
