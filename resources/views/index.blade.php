@@ -141,11 +141,11 @@
                 </div>
                 <div class="mb-4">
                     <h6 class="fw-medium m-0">Email:</h6>
-                    <p>mail@auregacs.com</p>
+                    <p>acs@auregagroup.com</p>
                 </div>
                 <div>
                     <h6 class="fw-medium m-0">Address:</h6>
-                    <p>Dubai, UAE</p>
+                    <p>#1403, The Prism Tower, Business Bay, Dubai</p>
                 </div>
             </div>
             <!-- Contact Form -->
@@ -175,7 +175,7 @@
             <!-- end Contact Form -->
         </div><!-- end row -->
         <!-- Google Maps -->
-        <div id="map1" class="gmap gmap-md mt-5" data-latitude="51.513569" data-longitude="-0.123443"></div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14441.857782445455!2d55.2611684!3d25.1875552!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f693560ad9fe9%3A0xdb3b467956c16a9a!2sAurega%20Group!5e0!3m2!1sen!2sin!4v1676375849520!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div><!-- end container -->
 </div>
 <!-- end Contact section -->

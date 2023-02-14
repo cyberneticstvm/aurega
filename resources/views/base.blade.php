@@ -94,20 +94,19 @@
 						<div class="col-6 col-sm-6 col-lg-3">
 							<h6 class="font-small fw-medium uppercase">Services We offered</h6>
 							<ul class="list-dash animate-links">
-								<li><a href="/aurega-company-incorporation">Company Incorporation</a></li>
-								<li><a href="/aurega-golden-visa">Golden Visa</a></li>
-								<li><a href="/aurega-management-consulting">Management Consulting</a></li>
-								<li><a href="/">Trade Licenses</a></li>
-								<li><a href="/">PRO Services</a></li>
-								<li><a href="/">Intellectual Property</a></li>
-								<li><a href="/">Accounting & Book-keeping</a></li>								
+								<li><a href="/services/company-incorporation-and-trade-license">Company Incorporation</a></li>
+								<li><a href="/services/golden-visa">Golden Visa</a></li>
+								<li><a href="/services/business-consulting">Business Consulting</a></li>
+								<li><a href="/services/accounting-and-book-keeping">Accounting & Book-keeping</a></li>
+								<li><a href="/services/pro-service">PRO Services</a></li>
+								<li><a href="/services/trademark-registration-and-intellectual-property">Trademark Registration</a></li>																
 							</ul>
 						</div>
 						<div class="col-6 col-sm-6 col-lg-3">
 							<h6 class="font-small fw-medium uppercase">Contact Info</h6>
 							<ul class="list-unstyled">
-								<li>Dubai, UAE</li>
-								<li>mail@auregacs.com</li>
+								<li>#1403, The Prism Tower, Business Bay, Dubai</li>
+								<li>acs@auregagroup.com</li>
 								<li>+(971) 52 868 6158</li>
 								<li>+(971) 50 693 9558</li>
 							</ul>
@@ -134,8 +133,6 @@
 
 		<!-- ***** JAVASCRIPTS ***** -->
 		<script src="{{ public_path().'/assets/plugins/jquery.min.js' }}"></script>
-		<script src="https://maps.googleapis.com/maps/api/js"></script>
-		<script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
 		<script src="{{ public_path().'/assets/plugins/plugins.js' }}"></script>
 		<script src="{{ public_path().'/assets/js/functions.js' }}"></script>
 	</body>
