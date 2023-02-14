@@ -26,24 +26,48 @@
             </div>
             <div class="col-12 col-md-8">
                 <div class="contact-form text-md-end">
-                    <form method="post" id="contactform">
+                    <form method="post" action="{{ route('contact.email') }}">
+                        @csrf
                         <div class="row gx-3 gy-0">
                             <div class="col-12 col-sm-6">
-                                <input type="text" id="name" name="name" placeholder="Name" required>
+                                <input type="text" id="name" name="name" placeholder="Name" value="{{ old('name') }}">
+                                @error('name')
+                                <small class="text-danger">{{ $errors->first('name') }}</small>
+                                @enderror
                             </div>
                             <div class="col-12 col-sm-6">
-                                <input type="email" id="email" name="email" placeholder="E-Mail" required>
+                                <input type="email" id="email" name="email" value="{{ old('email') }}" placeholder="E-Mail">
+                                @error('email')
+                                <small class="text-danger">{{ $errors->first('email') }}</small>
+                                @enderror
                             </div>
                         </div>
-                        <input type="text" id="contact" name="contact" placeholder="Contact Number" required>
-                        <input type="text" id="subject" name="subject" placeholder="Subject" required>
-                        <textarea name="message" id="message" placeholder="Message"></textarea>
-                        <button class="button button-sm btn-warnig mt-3" href="#">SUBMIT</button>
+                        <input type="text" id="contact" name="contact" value="{{ old('contact') }}" placeholder="Contact Number">
+                        @error('contact')
+						<small class="text-danger">{{ $errors->first('contact') }}</small>
+						@enderror
+                        <input type="text" id="subject" name="subject" value="{{ old('subject') }}" placeholder="Subject">
+                        @error('subject')
+						<small class="text-danger">{{ $errors->first('subject') }}</small>
+						@enderror
+                        <textarea name="message" id="message" placeholder="Message">{{ old('message') }}</textarea>
+                        @error('message')
+						<small class="text-danger">{{ $errors->first('message') }}</small>
+						@enderror
+                        <button type="submit" class="button button-sm btn-submit btn-warnig mt-3" href="#">SUBMIT</button>
                     </form>
                     <!-- Submit result -->
                     <div class="submit-result">
-                        <span id="success">Thank you! Your Message has been sent.</span>
-                        <span id="error">Something went wrong, Please try again!</span>
+                        @if(session()->has('success'))
+                            <div class="alert alert-success">
+                                {{ session()->get('success') }}
+                            </div>
+                        @endif
+                        @if(session()->has('error'))
+                            <div class="alert alert-danger">
+                                {{ session()->get('error') }}
+                            </div>
+                        @endif
                     </div>
                 </div>
             </div>

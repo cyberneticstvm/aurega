@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\EmailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -57,3 +58,5 @@ Route::get('/services/trademark-registration-and-intellectual-property', functio
     $title = 'Aurega - trademark Registration and Intellectual Property';
     return view('services.trademark', compact('title'));
 });
+
+Route::post('/email', [EmailController::class, 'email'])->name('contact.email');

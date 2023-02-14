@@ -5,6 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="">
         <meta name="keywords" content="">
+		<meta name="csrf-token" content="{{ csrf_token() }}">
 		<title>{{ $title }}</title>
 		<!-- Favicon -->
         <link href="{{ public_path().'/assets/images/favicon.png' }}" rel="shortcut icon">
@@ -135,5 +136,22 @@
 		<script src="{{ public_path().'/assets/plugins/jquery.min.js' }}"></script>
 		<script src="{{ public_path().'/assets/plugins/plugins.js' }}"></script>
 		<script src="{{ public_path().'/assets/js/functions.js' }}"></script>
+		<script>
+			$(function(){
+    			"use strict";
+
+				$.ajaxSetup({
+					headers: {
+						'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+					}
+				});
+
+				$('form').submit(function(){
+					$(".btn-submit").attr("disabled", true);
+					$(".btn-submit").html("<span class='spinner-grow spinner-grow-sm' role='status' aria-hidden='true'></span>");
+				});
+
+			});
+		</script>
 	</body>
 </html>
