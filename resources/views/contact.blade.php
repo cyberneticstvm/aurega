@@ -26,6 +26,19 @@
             </div>
             <div class="col-12 col-md-8">
                 <div class="contact-form text-md-end">
+                    <!-- Submit result -->
+                    <div class="submit-result mt-3">
+                        @if(session()->has('success'))
+                            <div class="text-success">
+                                {{ session()->get('success') }}
+                            </div>
+                        @endif
+                        @if(session()->has('error'))
+                            <div class="text-danger">
+                                {{ session()->get('error') }}
+                            </div>
+                        @endif
+                    </div>
                     <form method="post" action="{{ route('contact.email') }}">
                         @csrf
                         <div class="row gx-3 gy-0">
@@ -55,20 +68,7 @@
 						<small class="text-danger">{{ $errors->first('message') }}</small>
 						@enderror
                         <button type="submit" class="button button-sm btn-submit btn-warnig mt-3" href="#">SUBMIT</button>
-                    </form>
-                    <!-- Submit result -->
-                    <div class="submit-result">
-                        @if(session()->has('success'))
-                            <div class="alert alert-success">
-                                {{ session()->get('success') }}
-                            </div>
-                        @endif
-                        @if(session()->has('error'))
-                            <div class="alert alert-danger">
-                                {{ session()->get('error') }}
-                            </div>
-                        @endif
-                    </div>
+                    </form>                    
                 </div>
             </div>
         </div><!-- end row -->
