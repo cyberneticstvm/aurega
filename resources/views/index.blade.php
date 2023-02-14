@@ -150,7 +150,7 @@
             </div>
             <!-- Contact Form -->
             <div class="col-12 col-md-8">
-                <div class="contact-form text-end">
+                <div class="contact-form text-end mb-5">
                     <!-- Submit result -->
                     <div class="submit-result mb-3">
                         @if(session()->has('success'))
@@ -192,7 +192,7 @@
                         @error('message')
 						<small class="text-danger">{{ $errors->first('message') }}</small>
 						@enderror
-                        <div><button type="submit" class="button btn-submit button-sm btn-warnig mt-3" href="#">SUBMIT</button></div>
+                        <button type="submit" class="button btn-submit button-sm btn-warnig mt-3" href="#">SUBMIT</button>
                     </form>
                 </div>
             </div>
