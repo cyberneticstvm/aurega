@@ -34,111 +34,220 @@
                         <ul class="accordion single-open style-2 mt-3">
                             <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">DIFC</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai South</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">The Dubai International Financial Centre (DIFC) is one of the world’s leading financial hubs, offering a wide range of services for businesses looking to set up in the region. The DIFC provides a secure and regulated environment for companies to do business in the Middle East, with a variety of incentives and benefits for businesses, including tax-free trading, 100% foreign ownership and a supportive legal, regulatory and commercial infrastructure. Companies are able to access a range of services, including company formation, banking and financial services, legal and accounting services, leasing, and asset management. The DIFC also hosts a range of industry events and offers a variety of networking opportunities for businesses to expand and grow. With its attractive advantages, the DIFC is an ideal location for companies looking to expand their operations in the region.</p>
+                                    <p class="text-justify">Dubai South Free Zone (prev. known as Dubai World Central) is a development currently under construction, which will serve as an economic zone to support a number of activities including logistics, aviation, commercial, exhibition, humanitarian, residential and other related businesses around Al Maktoum International Airport. Dubai South has a planned annual capacity of 12 million tons of cargo and 160 million passengers. The construction area is 145 square kilometers, almost two times the size of Hong Kong Island.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">ADGM</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">International Free Zone Authority</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai AGDM business setup is a comprehensive business set up service that helps entrepreneurs quickly and efficiently launch their companies in Dubai. It provides bespoke solutions to clients, ensuring that they get the most out of their investment. The team of experts at Dubai AGDM business setup provide services such as visa processing, corporate structure setup, market research, feasibility studies, business plan writing, registration of business, and more. They also provide post-setup support to help ensure that clients get the most out of their investment. Their team of experienced professionals have extensive experience in the UAE market and will work with clients to ensure that their businesses are established in the best possible manner.</p>
+                                    <p class="text-justify">Located in the heart of Dubai city and world-class, the IFZA is soon set to become an important investment hub within the developing economy of the United Arab Emirates Offering a highly customized approach combined with effective international service standards and cost-effective solutions. With IFZA, it's really about their journey to customer and business success.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">MEYDAN</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Multi Commodities Center</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai Meydan is a business setup that offers a range of services to help entrepreneurs and investors establish their businesses in the UAE. From providing business information and resources to assisting with legal and administrative processes, Dubai Meydan provides a comprehensive, one-stop shop for companies and individuals looking to start a business in the UAE. Dubai Meydan's experienced team of professionals can guide you through the process, from selecting the best jurisdiction for your business to helping you acquire the necessary legal and regulatory documents. The team is also available to provide advice and assistance throughout the entire process. With their years of experience and knowledge, Dubai Meydan ensures that their clients receive the best possible advice and support to ensure that their businesses are set up correctly and in accordance with the UAE's legal and regulatory framework.</p>
+                                    <p class="text-justify">Located in the heart of Dubai city and world-class, the IFZA is soon set to become an important investment hub within the developing economy of the United Arab Emirates Offering a highly customized approach combined with effective international service standards and cost-effective solutions. With IFZA, it's really about their journey to customer and business success.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">DMCC</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Meydan Free Zone</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai DMCC is a strategic business hub in the heart of the city. It is one of the world’s leading Free Zones and is home to over 17,000 companies from over 160 countries. Located in the heart of the city, it is conveniently close to key landmarks, such as the Dubai International Financial Centre, Dubai World Trade Centre and Dubai International Airport. It features a range of benefits to businesses setting up in the zone, including 100% foreign ownership, no corporate tax, no personal income tax, no customs duty and a 0% import and re-export tax. Additionally, companies in the zone are able to gain access to a wide range of services and infrastructure, such as access to the world's largest gold, diamond and commodity exchanges, and access to high-speed fiber optic communications and cloud computing. All in all, Dubai DMCC is an ideal business setup for companies looking to establish a presence in the UAE.</p>
+                                    <p class="text-justify">Located in the heart of Dubai city and world-class, the IFZA is soon set to become an important investment hub within the developing economy of the United Arab Emirates Offering a highly customized approach combined with effective international service standards and cost-effective solutions. With IFZA, it's really about their journey to customer and business success.</p>
+                                    <p class="text-justify">It is one of the free zones that offer cost-effective business setup solution in Dubai. Meydan free zone encourages a lot of investors from all over the world for business setup in Meydan Free Zone, It offers full free zone incentives such as 100% ownership, no taxation, no currency restrictions, possibility of hiring foreign labour, high-speed internet connectivity and no duty tax imposed on import and export. The Meydan Free Zone offers only flexi desk option, which is very convenient for those who do not require a permanent physical office for their business.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">DUQE FREEZONE</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Jebel Ali Free Zone</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai DUQE FREEZONE is a leading business destination in the Middle East, offering a wide range of business opportunities and services. This advanced freezone provides the perfect environment for businesses to thrive, offering a variety of benefits such as world-class infrastructure, easy access to government departments, tax-free opportunities, and full foreign ownership. Companies based at Dubai DUQE FREEZONE can take advantage of the comprehensive package of services that include company formation, legal and visa support, as well as banking and accounting services. With its strategic location and business-friendly policies, Dubai DUQE FREEZONE is the ideal choice for businesses looking to expand their operations and reach their goals.</p>
+                                    <p class="text-justify">One of the largest free zones in the world, Jebel Ali Free Zone houses many thousands of companies, manufacturers, traders and exporters from all over the world. JAFZA contributes about 24% of the total FDI flow into Dubai, and ensures global connectivity for companies, thanks to its location next to Jebel Ali Port and its proximity to Al Maktoum International Airport and Dubai International Airport. JAFZA is also a major link in the global trade network and connects to 150 ports. The free zone allows companies to reduce the cost of their operations with storage facilities, equipped business spaces and industrial land.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">IFZA</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Airport Free Zone</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai International Financial Centre (DIFC) is a thriving business hub for international businesses. It offers a full range of business setup options, ranging from Free Zone Authority (IFZA) to onshore companies. IFZA is a great choice for companies looking for a cost-effective alternative to setting up a business in Dubai. It offers a wide range of benefits such as 100% foreign ownership, 100% capital repatriation, 0% corporate and personal tax, quick and easy registration process, and access to a vast network of international businesses. In addition, IFZA provides a wide range of business support services to ensure that businesses can operate effectively in the region. These services include accounting, auditing, legal advice, and corporate services. With its attractive benefits and services, IFZA is an ideal choice for businesses looking to make the most of the business opportunities in Dubai.</p>
+                                    <p class="text-justify">DAFZA: The fastest growing Zone in the world Ranked 1st globally by fDi magazine. DAFZA is one of the most prestigious and advanced free zones in Dubai, providing an ideal base to do business in the Middle East by providing a business-friendly environment, world class infrastructure, tax exemptions, full repatriation of earning, total ownership and exceptional facilities. Strategically located next to the Dubai International Airport, DAFZA is boasting rapid clearance and fast processing of paperwork to maximize business activity and efficiency.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">RAKEZ</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai World Trade Centre</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai RAKEZ business setup is an ideal choice for businesses looking for a hassle-free, cost-effective way to set up a company in Dubai. It offers an array of integrated services that allow businesses to establish an international presence in the UAE and benefit from the country’s world-class infrastructure, tax incentives, and access to an educated, skilled, and talented workforce. Dubai RAKEZ offers a wide range of services including full business setup, legal and accounting services, HR and recruitment support, and assistance in procuring visas and residency permits. Furthermore, the business setup process is streamlined, with all the necessary paperwork and approvals taken care of, allowing businesses to focus on their core operations.</p>
+                                    <p class="text-justify">Dubai World Trade Centre Authority (DWTC Authority) provides a unique and highly desirable proposition for businesses to compete even more effectively regionally and globally.</p>
+                                    <p class="text-justify">DWTC offers a highly competitive, single-point of contact operation for corporations, providing them with unique and flexible offers to operate seamlessly, including as an onshore registered business, under an independent free zone license, or as a dual license entity from the same zone.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">HAMRIYAH</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Silicon Oasis</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai Hamriyah Business Setup is an ideal destination for investors, entrepreneurs and business owners looking to establish their business in the UAE. Located in the UAE’s free-zone, Hamriyah is one of the fastest growing business hubs in the region. With a wide range of benefits, including 100% foreign ownership and zero personal and corporate income tax, Hamriyah is a great place to set up a business. The free-zone also offers a wealth of resources and facilities to help businesses expand and flourish, such as low-cost business setup packages, streamlined business licensing procedures and flexible payment terms. Hamriyah is a great place to establish a business in the UAE.</p>
+                                    <p class="text-justify">Dubai Silicon Oasis is a free zone and also a big business and residential community in Dubai. It is one of the most attractive places for business setup in UAE. Established in 2004 and fully owned by the Government of Dubai, Dubai Silicon Oasis Authority (DSOA) is providing both a living and a working integrated community. Silicon Oasis is a Free Zone Authority which offers free trade zone incentives and benefits to companies operating within the tech park. Dubai Silicon Oasis Authority promotes modern technology based industries within an urban master-planned community, state-of-the-art infrastructure & in –house business services.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">DUBAI SOUTH</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Commercity Free Zone</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai South is a business hub located in the United Arab Emirates. It is a business setup that is designed to facilitate the development of trade and business activities in the region. The hub offers a wide array of services ranging from business setup and support, to a free-trade zone, to a one-stop-shop for business needs. It also offers attractive incentives for businesses, such as tax exemptions and visa exemptions. The business hub also provides access to world-class infrastructure, with its own airport, port, and logistics facilities. This makes it an ideal location for businesses looking to set up operations in the Middle East.</p>
+                                    <p class="text-justify">Dubai CommerCity is strategically situated at the centre of the regional trade route that provides easy access to more than 2 billion people within a 2-hour flight radius. Dubai CommerCity will be the first dedicated e-commerce free zone in Middle East, North Africa and South Asia. The first phase represents a “business cluster” with more than 320.00 square feet offices and 145.00 square feet logistics units. Moreover, there is a “multi-client warehouses”. The warehouses will be held in a logistics cluster, administered by Hellmann Worldwide Logistics as well as DHL. 51% of the warehouse space is already leased.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">DUBAI MEDIA CITY</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Virtual Commercial City</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai Media City is a premier hub for media and technology in the UAE. This business setup is a part of Dubai’s vision of transforming the city into a media and technology hub. It is a free zone that offers a variety of perks to business owners such as 100% ownership and tax exemptions. Dubai Media City offers a wide range of facilities and services to business owners including but not limited to, leasing premium office spaces, high-speed internet, flexible payment terms, and access to the latest technologies. It also provides a platform for businesses to network, collaborate, and promote their products and services to local and international markets. Dubai Media City is a great place for any business looking to expand their presence in the UAE and the Middle East.</p>
+                                    <p class="text-justify">Dubai Virtual Commercial City (VCC) is an ambitious project by the Dubai government that will be a new hub for trade, innovation, and e-commerce. It's designed to make Dubai the first global city for trade in digital commerce. The VCC will be a free trade zone with no taxes, tariffs, or quotas on any imported goods.</p>
                                 </div>
                             </li>
-                            <li>
+                            <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">DUBAI KNOWLEDGE VILLAGE</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Internet City</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai Knowledge Village (DKV) is a leading business park in the United Arab Emirates that provides a world-class business setup for small and medium-sized businesses. Located in the heart of Dubai, DKV provides a secure and modern business environment with easy access to the hub of the city. The business park offers a wide range of business services and facilities, from start-up registration, residency permits, and visa processing to office spaces, business support, training, and networking. DKV is the ideal location for businesses to establish a presence in the UAE, with its strategic location and competitive package of services. The business park provides a unique platform to engage with the local and international business community, allowing businesses to maximise their potential and grow their business in the UAE.</p>
+                                    <p class="text-justify">Dubai Virtual Commercial City (VCC) is an ambitious project by the Dubai government that will be a new hub for trade, innovation, and e-commerce. It's designed to make Dubai the first global city for trade in digital commerce. The VCC will be a free trade zone with no taxes, tariffs, or quotas on any imported goods. </p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Academic City</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Launched in April 2007, Dubai Academic City or DIAC was designed to cater to the needs of the region’s growing and diverse academic community. Home to numerous regional and international colleges and universities, it serves over 24,000 students from all around the world. With more than 400 undergraduate and post-graduate programmes currently offered to students, DIAC continues to expand and grow as per the needs of its robust and talented academic community. If you were thinking about setting up a business in Dubai International Academic City, you should know that DIAC is the world’s largest free zone dedicated to higher education and the pursuit of intellectual growth.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Biotech Research Park</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Are you looking to start business in Dubai Science Park Free Zone? Dubai Science Biotechnology Research Park Freezone is known as a big appeal for many countries everywhere in the world. The Dubai Science Biotechnology and Research Park (Dubai Science Park) is a science and Business Park dedicated to the Science Biotechnology and pharmaceutical industry and is modelled on the free zone concept.</p>
+                                    <p class="text-justify">A member of Dubai Holding, Dubai Science Park will accommodate the Science Biotechnology industry and facilitate government funded R&D. Dubai Science Park’s world-class infrastructure includes facilities and services for incubators, R&D labs, Science Park-related educational and research institutions, manufacturing as well as organisations from supporting and convergent industries.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Design District</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Dubai Design District is the latest of Free Zone business parks by TECOM Investments. If you were considering to set up a business in Dubai Design District, then you should know that Dubai Design District is one of the best places for any businessman to set up their company in Dubai. Launched in 2013 by the UAE’s Prime Minister and Ruler of Dubai, Sheikh Mohamed bin Rashid al Maktoum, to encourage growth and investment in markets like digital media, arts, design, and fashion Dubai Design District (D3) is the latest of Free Zone business parks by TECOM Investments.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Gold and Diamond Park</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Dubai Gold and Diamond Park is situated on Sheik Zayed Road and is part of the Jebel Ali Free Zone. Established in 2011, with the aim of becoming a treasure trove of some of the world’s finest jewellery, gemstones, precious stones, gold, silver, platinum and high-end personal accessories, Dubai Gold & Diamond Park continues to attract numerous tourists and residents alike. Conveniently located on Sheikh Zayed Road, Gold & Diamond Park offers an array of spectacular Jewellery and bullion worth millions that can be admired, reviewed and purchased everywhere you turn, and customers can even choose to have their own designs custom-made at the hands of superbly skilled and experienced artisans.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Healthcare City</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Dubai Healthcare City (DHCC) is a free zone committed to creating a health and wellness destination. Launched in 2002 by His Highness Sheikh Mohammed Bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai, the free zone has worked towards its vision to become an internationally recognized location of choice for quality healthcare and an integrated center of excellence for clinical and wellness services, medical education and research.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Industrial City</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Dubai Industrial Park (Dubai Industrial City) is a designated district within of Dubai Wholesale City, one of the largest industrial hubs in Dubai. DIC was established with the objective of fast-tracking growth and expansion of the industrial sector in the United Arab Emirates - especially seeking to attract players in the light and medium manufacturing sectors with specific emphasis on food and beverage, base metals, transport equipment and parts, machinery and mechanical equipment, workshops, logistics, chemicals, and mineral products.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Knowledge Village</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Dubai Knowledge Park (DKP) is the world’s only Free Zone dedicated to human resource management and learning excellence. The world’s only free zone dedicated to Human Resource Management and learning excellence. Established in 2003 as part of TECOM Group, Dubai Knowledge Park (DKP) aims to develop the region’s talent pool and establish the UAE as a knowledge-based economy. DKP is a unique hub that offers the best selection of programmes in Human Resource Management (HRM), Consultancy, Training and Personal Development. Students receive diplomas and certificates of the highest calibre from DKP’s top-class Business Partners.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Media City</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Established in 2003 as part of TECOM Group, Dubai Knowledge Park (DKP) aims to develop the region’s talent pool and establish the UAE as a knowledge-based economy. DKP is a unique hub that offers the best selection of programmes in Human Resource Management (HRM), Consultancy, Training and Personal Development. Students receive diplomas and certificates of the highest calibre from DKP’s top-class Business Partners. Since its official launch in 2001, Dubai Media City (DMC) has rapidly emerged as a global media hub, providing an advanced infrastructure and supportive environment for media-related businesses to operate in and out of Dubai.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Outsource Zone</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Dubai Outsource City - The World’s First Free zone dedicated to the Outsourcing Industry</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Studio City</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Imagine a place where you can shoot a film from start to finish in one location. From financing to casting to pre-production to filming in exotic locations to editing to sound recording to visual animation to processing to distribution and finally to the premiere night. Imagine a place like Dubai Studio City.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Techno Park</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Dubai Techno Park is an information technology park established in 2002 in Dubai. The purpose of Dubai Techno Park is to advance the technological development within the commercial zone. This tech-hub is a free trade zone and acts as a home for various MNCs dealing in the field of technology, innovation and tech-research. Currently, Dubai Techno Park is home to some of the world’s most high-profile companies specializing in technology, oil, gas and petrochemical industry and other industries, which makes Techno Park one of the largest industrial hubs in the Middle East.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Intl Financial Centre</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Set up in 2004, DIFC was established to oversee the strategic development, operational management and administration of Dubai’s financial companies. The Authority is committed to creating value for its various stakeholders. This commitment is expressed in DIFCA’s four-tiered management strategy:</p>
+                                    <ul>
+                                        <li>Dubai Vision: Contribute to Dubai’s reputation as a global business hub by maintaining international standards, developing international relations, business and employment creation, and economic development.</li>
+                                        <li>Infrastructure development: Provide world-class physical, legal and regulatory infrastructure, which has been tailor-made for the requirements of the financial and professional services community.</li>
+                                        <li>Financial sustainability: Ensure the financial sustainability of DIFC and the companies established in the centre through a programme of resource alignment, financial risk management, and competitive benchmarking.</li>
+                                        <li>Client centric: Support client growth through authority business process streamlining, service improvement, and enhanced management structures geared towards a superior client experience.</li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Ras Al Khaimah Economic Zone</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Ras Al Khaimah Economic Zone (RAKEZ) is based in the heart of Ras Al Khaimah and guided by the vision of His Highness Sheikh Saud Bin Saqr Al Qasimi, United Arab Emirates Supreme Council Member and Ruler of Ras Al Khaimah. RAKEZ was established to oversee and consolidate the specialized parks and clients of both Ras Al Khaimah Free Trade Zone (RAK FTZ) and RAK Investment Authority (RAKIA).</p>
                                 </div>
                             </li>
                         </ul>
                     </div>
                     <div class="tab-pane fade" id="second">
-                        <p class="text-justify">Dubai Onshore business setup is the most popular and preferred choice of foreign companies looking to establish a presence in the UAE. The onshore setup involves registering a company in one of the country's free zones or as an LLC (Limited Liability Company). The benefits of setting up an onshore business include access to the local market, access to the wider UAE market, and the potential to benefit from the UAE's zero tax policy. Additionally, an onshore business setup allows companies to have full ownership, access to local resources and a local bank account, as well as numerous other benefits.</p>
+                        <p class="text-justify">A Mainland company is a company registered in one of the UAE DED (Department of Economic Development). It means that if you choose to conduct business in UAE Mainland, you will need to register a business entity with the DED, which will then provide you a business license to start doing business in UAE.</p>
+                        <p class="text-justify">Mainland companies can practice any industrial, commercial, trading, professional, or tourism activity. Some professional activities are excluded as per DED's business regulations, and others require approvals of authorities that regulate these activities.</p>
+                        <p class="text-justify">Foreign investors may start their business in a partnership where 51% ownership of the company belongs to UAE nationals or choose a Sole Establishment company formation to own 100% of shares. However, some business activities are reserved for UAE nationals only.</p>
+                        <p class="text-justify">Shareholders must fulfill the formation documents and processes, which is included the appointment of a manager by the Memorandum of Association (MOA) or Service Agreement, for a limited or an unlimited period. Mainland must appoint a minimum of one manager and up to a maximum of five managers for the business.</p>
                         <ul class="accordion single-open style-2 mt-3">
                             <li>
                                 <div class="accordion-title">
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Limited liability company (LLC)</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">LLCs are governed by the United Arab Emirates Commercial Companies Law and are suitable for commercial activities such as trading, professional services and manufacturing. LLCs offer limited liability protection to their shareholders, making them a popular choice for investors and entrepreneurs. LLCs can also be used to hold real estate and intellectual property rights, and are the preferred choice for businesses seeking foreign investment.</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Limited partnership company (UAE nationals only)</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">An LLC can have up to 50 shareholders, each of whom is liable only to the extent of his or her share in the capital of the company. LLCs are authorised to conduct any industrial or commercial business, but not professional (to practice law, auditing, accountancy or any other type of consulting service). – except banking, insurance or investment. An LLC must be 51% owned by UAE Nationals, although the Memorandum of Association can distribute profits in a different ratio. In the interests of an open, honest and transparent economy, the LLC must appoint a UAE accredited auditor. In case of the death of any partner, his or her shares are transferred to the heirs mentioned in the will. Shares of an LLC cannot be offered to the public. The company may not resort to public subscription to establish or increase its capital, or to secure loans, and it may not issue any negotiable stocks or shares. Between one and five managers must be appointed for the business. The managers may be selected from the partners or may be any other parties. Managers must be appointed by a Memorandum of Association or by a management contract, for a fixed term or an unlimited term. Managers can also be appointed by the General Assembly of the partners. Unless the Memorandum of Association states otherwise, the manager has full powers of administration. Within the scope of his or her powers, the manager’s actions and commitments are binding on the business.</p>
+                                    <p class="text-justify">The standard type of company in the UAE mainland is the Limited Liability Company (LLC). The DED is the government body authorised to issue all licences for LLCs and is responsible for classifying and regulating the types of economic activity that may be undertaken.</p>
+                                    <p class="text-justify">An LLC is not restricted on where it can trade in the UAE (unlike Free Zone companies) or GCC; furthermore there is no restriction on real estate ownership, or on the number of visas that can be obtained. There are no minimum share capital requirements.</p>
                                 </div>
                             </li>
                             <li>
@@ -146,7 +255,7 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Sole proprietorship</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">A professional business sole proprietorship covers a range of professions from owning a restaurant to a consultancy firm. Sole proprietorships providing services require a Local Service Agent (LSA) if they are owned by a National of a country other than the UAE or GCC countries. The local service agent is a UAE National who manages licensing requirements and other government-related matters for your business, in exchange for an annual fee. A sole proprietorship can only be owned by an individual, not a company. 100% ownership of this business, control all of its operations and 100% of any profits remains with the owner. Likewise, in case of any financial obligation or business debt the 100% onus remains on the owner to fulfill the same. A professional type sole proprietorship may be owned by an individual of any nationality for providing services that are lawfully permitted. A sole proprietorship that is industrial or commercial can be owned only by UAE Nationals or GCC Nationals.</p>
+                                    <p class="text-justify">Sole establishment (also described as sole proprietorship) means that one individual owns the business entity with a trade licence issued in his or her name. This means that, unlike other business entities offered in the UAE, a company or corporate body cannot own the business. This individual becomes personally liable for business activities. That means creditors can claim personal assets to compensate for company debts, too.</p>
                                 </div>
                             </li>
                             <li>
@@ -154,7 +263,7 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Branch of a foreign company</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">A very popular way for foreign companies to benefit from 100% foreign ownership is to open a branch office of the parent company. A branch office is lawfully regarded as part of its parent company and does not have a separate legal identity from that of its parent company. Thus, the name of the branch office will be the same as that of the parent company. Branch offices are required to have a UAE national as a local service agent. UAE nationals or companies 100% owned by UAE nationals may be appointed as local service agents. The local service agent manages licensing requirements and other government-related matters for your business, in exchange for an annual fee. A branch office in the UAE may only be engaged in activities service similar to those of the parent company. It is important to note that a branch office is not permitted to carry on the commercial business within the UAE. A Representative Office of a foreign company is legally distinct from the branch office. A representative office of a foreign company is only permitted to promote the sale of its products and facilitate contracts with its parent in the UAE. A Representative Office cannot conduct a sale or production by itself. In addition to the above limitations, representative offices have other restrictions in that they are not allowed to obtain credit facilities or put forward offers. As in the case of a branch office, it is necessary when establishing a representative office to appoint a local service agent.</p>
+                                    <p class="text-justify">Branch of a Foreign Company is an extension or the additional presence of the parent company where the company can operate with the same name and carry out the same line of activities. The parent company can also establish the branch for the purpose of representation of their company in other locations as well. The Branch of Foreign Company can be established in two jurisdictions; namely, Mainland and Free Zone. In this article, we will discuss about the formalities, approvals and requirements to establish the Foreign Branch in mainland and Free Zone.</p>
                                 </div>
                             </li>
                             <li>
@@ -162,7 +271,8 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Representative office of a foreign company</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">A very popular way for foreign companies to benefit from 100% foreign ownership is to open a branch office of the parent company. A branch office is lawfully regarded as part of its parent company and does not have a separate legal identity from that of its parent company. Thus, the name of the branch office will be the same as that of the parent company. Branch offices are required to have a UAE national as a local service agent. UAE nationals or companies 100% owned by UAE nationals may be appointed as local service agents. The local service agent manages licensing requirements and other government-related matters for your business, in exchange for an annual fee. A branch office in the UAE may only be engaged in activities service similar to those of the parent company. It is important to note that a branch office is not permitted to carry on the commercial business within the UAE. A Representative Office of a foreign company is legally distinct from the branch office. A representative office of a foreign company is only permitted to promote the sale of its products and facilitate contracts with its parent in the UAE. A Representative Office cannot conduct a sale or production by itself. In addition to the above limitations, representative offices have other restrictions in that they are not allowed to obtain credit facilities or put forward offers. As in the case of a branch office, it is necessary when establishing a representative office to appoint a local service agent.</p>
+                                    <p class="text-justify">One of the major reasons why you can opt for setting up a representative office in Dubai, keeping in mind your specific needs, is that it is extremely cost-effective. There is usually no requirement of a capital share to open a representative office. The business operations are usually smaller, as most of the resources remain with the parent company- running costs are lower as well. With free zone setups, you can maintain 100% ownership of the company since it is considered an extension of the parent company.</p>
+                                    <p class="text-justify">A representative office acts as a powerful promotional and marketing tool for existing businesses. This ensures a great foothold in the growing UAE market which expanding your business at home- at low costs and favourable tax conditions</p>
                                 </div>
                             </li>
                             <li>
@@ -170,7 +280,8 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Corporate shareholding company</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">CSC offers a wide range of services and solutions including corporate structuring, corporate finance, corporate governance, corporate restructuring, international tax planning, business setup, business consultancy, and more. They also provide a comprehensive suite of services related to corporate shareholding and investments, including shareholding management, transfer of ownership, and share valuation.</p>
+                                    <p class="text-justify">A corporate shareholder is a business entity that owns shares in another limited company. The term ‘corporate shareholder’ may refer to another limited company, a limited liability partnership or a non-profit organisation or charity. The rights of a corporate shareholder are exactly the same as the rights of an individual shareholder. They are defined in the prescribed particulars attached to their shares. Like all shareholders, corporate shareholders enjoy limited liability for the company’s debts. They have to pay for the value of their shares when the company asks them to do so. That is the extent of their financial responsibility towards the company.</p>
+                                    <p class="text-justify">Having a corporate shareholder that is also an external investor can be advantageous particularly for new companies. The stability and expertise of an established business can help to create brand value. Being backed by a corporate shareholder may also make it easier to access favourable rates and payment terms from suppliers and manufacturers.</p>
                                 </div>
                             </li>
                         </ul>
@@ -209,7 +320,7 @@
             </div>
             <div class="col-12">
                 <h4 class="fw-light">We offer follwoing <span class="fw-normal">Trade Licenses</span></h4>
-                <p class="text-justify">Trade licenses in the United Arab Emirates (UAE) are divided into two categories: industrial and commercial. Industrial licenses are required for manufacturing activities and commercial licenses are required for services and trading. The type of license required depends on the type of business and the location. The process of obtaining a trade license involves registration with the relevant authorities, providing documents such as the Memorandum of Association and Articles of Association, and obtaining approval from the Ministry of Economy. Once the license is obtained, the company must renew it annually and ensure that the license is kept up to date with the latest regulations. The type of license required depends on the type of business and the location.</p>
+                <p class="text-justify"></p>
                 <ul class="accordion single-open style-2 mt-3">
                     <li class="">
                         <div class="accordion-title">
