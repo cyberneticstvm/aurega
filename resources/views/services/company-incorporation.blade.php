@@ -34,6 +34,28 @@
                         <ul class="accordion single-open style-2 mt-3">
                             <li class="">
                                 <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai International Financial Centre</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Set up in 2004, DIFC was established to oversee the strategic development, operational management and administration of Dubai’s financial companies. The Authority is committed to creating value for its various stakeholders. This commitment is expressed in DIFCA’s four-tiered management strategy:</p>
+                                    <ul>
+                                        <li>Dubai Vision: Contribute to Dubai’s reputation as a global business hub by maintaining international standards, developing international relations, business and employment creation, and economic development.</li>
+                                        <li>Infrastructure development: Provide world-class physical, legal and regulatory infrastructure, which has been tailor-made for the requirements of the financial and professional services community.</li>
+                                        <li>Financial sustainability: Ensure the financial sustainability of DIFC and the companies established in the centre through a programme of resource alignment, financial risk management, and competitive benchmarking.</li>
+                                        <li>Client centric: Support client growth through authority business process streamlining, service improvement, and enhanced management structures geared towards a superior client experience.</li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Abu Dhabi Global Market</h6>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="text-justify">Abu Dhabi Global Market is a broad-based international financial centre for local, regional and international institutions, established in accordance with the Federal Law No (8) of 2004, Federal Decree No (15) of 2013, Cabinet Resolution No (4) of 2013, and Abu Dhabi Law No (4) of 2013. ADGM’s three independent authorities – the Registration Authority, the Financial Services Regulatory Authority (FSRA) and ADGM Courts – ensure that our business-friendly environment operates in line with international best practice that are recognised by major financial centres across the world.</p>
+                                </div>
+                            </li>
+                            <li class="">
+                                <div class="accordion-title">
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai South</h6>
                                 </div>
                                 <div class="accordion-content">
@@ -53,7 +75,7 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Multi Commodities Center</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Located in the heart of Dubai city and world-class, the IFZA is soon set to become an important investment hub within the developing economy of the United Arab Emirates Offering a highly customized approach combined with effective international service standards and cost-effective solutions. With IFZA, it's really about their journey to customer and business success.</p>
+                                    <p class="text-justify">The Dubai Multi Commodities Centre (DMCC) includes companies that trade or work with gold, diamonds, precious and base metals, tea, and food grains, among other commodities. The free zone forms the centre piece of the Jumeirah Lakes Towers residential and commercial development, with more than 80 high rise towers set amidst lakes. Strategically located in new Dubai, DMCC is well connected by metro and bus routes and constantly achieves record performance in new company registrations. The zone houses hundreds of major multinationals, start-ups and small businesses, offering them world-class services, sterling facilities and a vibrant community. </p>
                                 </div>
                             </li>
                             <li class="">
@@ -61,8 +83,7 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Meydan Free Zone</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Located in the heart of Dubai city and world-class, the IFZA is soon set to become an important investment hub within the developing economy of the United Arab Emirates Offering a highly customized approach combined with effective international service standards and cost-effective solutions. With IFZA, it's really about their journey to customer and business success.</p>
-                                    <p class="text-justify">It is one of the free zones that offer cost-effective business setup solution in Dubai. Meydan free zone encourages a lot of investors from all over the world for business setup in Meydan Free Zone, It offers full free zone incentives such as 100% ownership, no taxation, no currency restrictions, possibility of hiring foreign labour, high-speed internet connectivity and no duty tax imposed on import and export. The Meydan Free Zone offers only flexi desk option, which is very convenient for those who do not require a permanent physical office for their business.</p>
+                                    <p class="text-justify">A modern economic free zone in the heart of Dubai, Meydan is close to the most important landmarks of the emirate, which gives investors several strategic benefits. It offers open office spaces and fully serviced offices, accommodating all types of businesses including commercial, consulting, investment and administrative companies, alongside choices in high-end residences. The free zone also has a 5-star hotel, a premium golf course and is home to Dubai World Cup, the world's richest horse race.</p>
                                 </div>
                             </li>
                             <li class="">
@@ -119,7 +140,7 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Internet City</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Dubai Virtual Commercial City (VCC) is an ambitious project by the Dubai government that will be a new hub for trade, innovation, and e-commerce. It's designed to make Dubai the first global city for trade in digital commerce. The VCC will be a free trade zone with no taxes, tariffs, or quotas on any imported goods. </p>
+                                    <p class="text-justify">Dubai Internet City - DIC is built inside a Free Zone that provides a knowledge economy ecosystem designed to support the business development of information and communications technology (ICT) companies. It is the Middle East's biggest ICT infrastructure.</p>
                                 </div>
                             </li>
                             <li class="">
@@ -130,15 +151,7 @@
                                     <p class="text-justify">Launched in April 2007, Dubai Academic City or DIAC was designed to cater to the needs of the region’s growing and diverse academic community. Home to numerous regional and international colleges and universities, it serves over 24,000 students from all around the world. With more than 400 undergraduate and post-graduate programmes currently offered to students, DIAC continues to expand and grow as per the needs of its robust and talented academic community. If you were thinking about setting up a business in Dubai International Academic City, you should know that DIAC is the world’s largest free zone dedicated to higher education and the pursuit of intellectual growth.</p>
                                 </div>
                             </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Biotech Research Park</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Are you looking to start business in Dubai Science Park Free Zone? Dubai Science Biotechnology Research Park Freezone is known as a big appeal for many countries everywhere in the world. The Dubai Science Biotechnology and Research Park (Dubai Science Park) is a science and Business Park dedicated to the Science Biotechnology and pharmaceutical industry and is modelled on the free zone concept.</p>
-                                    <p class="text-justify">A member of Dubai Holding, Dubai Science Park will accommodate the Science Biotechnology industry and facilitate government funded R&D. Dubai Science Park’s world-class infrastructure includes facilities and services for incubators, R&D labs, Science Park-related educational and research institutions, manufacturing as well as organisations from supporting and convergent industries.</p>
-                                </div>
-                            </li>
+                            
                             <li class="">
                                 <div class="accordion-title">
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Design District</h6>
@@ -147,14 +160,7 @@
                                     <p class="text-justify">Dubai Design District is the latest of Free Zone business parks by TECOM Investments. If you were considering to set up a business in Dubai Design District, then you should know that Dubai Design District is one of the best places for any businessman to set up their company in Dubai. Launched in 2013 by the UAE’s Prime Minister and Ruler of Dubai, Sheikh Mohamed bin Rashid al Maktoum, to encourage growth and investment in markets like digital media, arts, design, and fashion Dubai Design District (D3) is the latest of Free Zone business parks by TECOM Investments.</p>
                                 </div>
                             </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Gold and Diamond Park</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Dubai Gold and Diamond Park is situated on Sheik Zayed Road and is part of the Jebel Ali Free Zone. Established in 2011, with the aim of becoming a treasure trove of some of the world’s finest jewellery, gemstones, precious stones, gold, silver, platinum and high-end personal accessories, Dubai Gold & Diamond Park continues to attract numerous tourists and residents alike. Conveniently located on Sheikh Zayed Road, Gold & Diamond Park offers an array of spectacular Jewellery and bullion worth millions that can be admired, reviewed and purchased everywhere you turn, and customers can even choose to have their own designs custom-made at the hands of superbly skilled and experienced artisans.</p>
-                                </div>
-                            </li>
+                            
                             <li class="">
                                 <div class="accordion-title">
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Healthcare City</h6>
@@ -163,14 +169,7 @@
                                     <p class="text-justify">Dubai Healthcare City (DHCC) is a free zone committed to creating a health and wellness destination. Launched in 2002 by His Highness Sheikh Mohammed Bin Rashid Al Maktoum, Vice-President and Prime Minister of the UAE and Ruler of Dubai, the free zone has worked towards its vision to become an internationally recognized location of choice for quality healthcare and an integrated center of excellence for clinical and wellness services, medical education and research.</p>
                                 </div>
                             </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Industrial City</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Dubai Industrial Park (Dubai Industrial City) is a designated district within of Dubai Wholesale City, one of the largest industrial hubs in Dubai. DIC was established with the objective of fast-tracking growth and expansion of the industrial sector in the United Arab Emirates - especially seeking to attract players in the light and medium manufacturing sectors with specific emphasis on food and beverage, base metals, transport equipment and parts, machinery and mechanical equipment, workshops, logistics, chemicals, and mineral products.</p>
-                                </div>
-                            </li>
+                            
                             <li class="">
                                 <div class="accordion-title">
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Knowledge Village</h6>
@@ -184,47 +183,9 @@
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Media City</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Established in 2003 as part of TECOM Group, Dubai Knowledge Park (DKP) aims to develop the region’s talent pool and establish the UAE as a knowledge-based economy. DKP is a unique hub that offers the best selection of programmes in Human Resource Management (HRM), Consultancy, Training and Personal Development. Students receive diplomas and certificates of the highest calibre from DKP’s top-class Business Partners. Since its official launch in 2001, Dubai Media City (DMC) has rapidly emerged as a global media hub, providing an advanced infrastructure and supportive environment for media-related businesses to operate in and out of Dubai.</p>
+                                    <p class="text-justify">Strategically located in Dubai at the crossroads of the Middle East, Africa and South Asia, Dubai Media City (DMC) has rapidly emerged as a global media hub. DMC provides an advanced infrastructure and supportive environment for media-related businesses to operate globally out of Dubai. DMC is a place where various media businesses can operate jointly, including media and marketing services, printing and publishing, music, film, new media, leisure and entertainment, broadcasting and information agencies. The DMC community includes global media giants such as Reuters, CNN, CNBC, MBC, Sony, Showtime and Bertelsmann.</p>
                                 </div>
-                            </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Outsource Zone</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Dubai Outsource City - The World’s First Free zone dedicated to the Outsourcing Industry</p>
-                                </div>
-                            </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Studio City</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Imagine a place where you can shoot a film from start to finish in one location. From financing to casting to pre-production to filming in exotic locations to editing to sound recording to visual animation to processing to distribution and finally to the premiere night. Imagine a place like Dubai Studio City.</p>
-                                </div>
-                            </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Techno Park</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Dubai Techno Park is an information technology park established in 2002 in Dubai. The purpose of Dubai Techno Park is to advance the technological development within the commercial zone. This tech-hub is a free trade zone and acts as a home for various MNCs dealing in the field of technology, innovation and tech-research. Currently, Dubai Techno Park is home to some of the world’s most high-profile companies specializing in technology, oil, gas and petrochemical industry and other industries, which makes Techno Park one of the largest industrial hubs in the Middle East.</p>
-                                </div>
-                            </li>
-                            <li class="">
-                                <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai Intl Financial Centre</h6>
-                                </div>
-                                <div class="accordion-content">
-                                    <p class="text-justify">Set up in 2004, DIFC was established to oversee the strategic development, operational management and administration of Dubai’s financial companies. The Authority is committed to creating value for its various stakeholders. This commitment is expressed in DIFCA’s four-tiered management strategy:</p>
-                                    <ul>
-                                        <li>Dubai Vision: Contribute to Dubai’s reputation as a global business hub by maintaining international standards, developing international relations, business and employment creation, and economic development.</li>
-                                        <li>Infrastructure development: Provide world-class physical, legal and regulatory infrastructure, which has been tailor-made for the requirements of the financial and professional services community.</li>
-                                        <li>Financial sustainability: Ensure the financial sustainability of DIFC and the companies established in the centre through a programme of resource alignment, financial risk management, and competitive benchmarking.</li>
-                                        <li>Client centric: Support client growth through authority business process streamlining, service improvement, and enhanced management structures geared towards a superior client experience.</li>
-                                    </ul>
-                                </div>
-                            </li>
+                            </li>                           
                             <li class="">
                                 <div class="accordion-title">
                                     <h6 class="font-family-tertiary font-small fw-medium uppercase">Ras Al Khaimah Economic Zone</h6>
@@ -320,7 +281,7 @@
             </div>
             <div class="col-12">
                 <h4 class="fw-light">We offer follwoing <span class="fw-normal">Trade Licenses</span></h4>
-                <p class="text-justify"></p>
+                <p class="text-justify">There are six types of licenses, namely industrial license, commercial license, professional license, crafts license, tourism license, and agricultural license. Industrial licenses are required for manufacturing activities, Commercial licenses are required for trading and Professional licenses are required for services-based industries. The type of license required depends on the type of business and the location.</p>
                 <ul class="accordion single-open style-2 mt-3">
                     <li class="">
                         <div class="accordion-title">
