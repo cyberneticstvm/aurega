@@ -27,7 +27,7 @@
             <div class="col-12 col-md-8">
                 <div class="contact-form text-md-end">
                     <!-- Submit result -->
-                    <div class="submit-result mt-3">
+                    <div class="submit-result mb-3">
                         @if(session()->has('success'))
                             <div class="text-success">
                                 {{ session()->get('success') }}
