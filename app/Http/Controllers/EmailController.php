@@ -27,10 +27,6 @@ class EmailController extends Controller
 
     public function index(){ 
       Mail::to('vijoysasidharan@yahoo.com')->send(new ContactMail()); 
-      if (Mail::failures()) {
-           return response()->Fail('Sorry! Please try again latter');
-      }else{
-           return response()->success('Great! Successfully send in your mail');
-         }
+      echo "success";
     } 
 }
