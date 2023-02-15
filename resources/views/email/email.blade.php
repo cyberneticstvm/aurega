@@ -11,4 +11,4 @@ Subject: {{ $user['subject'] }}<br>
 Message: {{ $user['message'] }}<br><br>
 
 Regards<br>
-<p>ACS</p>
+Aurega CS
