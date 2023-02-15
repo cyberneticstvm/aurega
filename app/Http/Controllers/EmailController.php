@@ -18,7 +18,7 @@ class EmailController extends Controller
             'message' => 'required',
         ]);
         $input = $request->all(); $to_email = Config::get('app.mail_to_address');
-        Mail::send('email', ['user' => $input], function($message) use($to_email){
+        Mail::send('email.email', ['user' => $input], function($message) use($to_email){
             $message->to($to_email);
             $message->subject('Aurega Corporate Service - New Message');
         });        
