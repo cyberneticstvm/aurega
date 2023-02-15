@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Mail\ContactMail;
 use Config;
 use Mail;
 
@@ -23,4 +24,13 @@ class EmailController extends Controller
         });        
         return redirect()->back()->with('success','Thank you for contacting us. We will get back to you shortly');        
     }
+
+    public function index(){ 
+      Mail::to('receiver-email-id')->send(new ContactMail()); 
+      if (Mail::failures()) {
+           return response()->Fail('Sorry! Please try again latter');
+      }else{
+           return response()->success('Great! Successfully send in your mail');
+         }
+    } 
 }
