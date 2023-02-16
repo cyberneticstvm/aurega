@@ -264,7 +264,7 @@
                 </div>
             </div>
             <div class="col-12">
-                <h4 class="fw-light">We offer follwoing <span class="fw-normal">Trade Licenses</span></h4>
+                <h4 class="fw-light">We offer following <span class="fw-normal">Trade Licenses</span></h4>
                 <p class="text-justify">There are six types of licenses, namely industrial license, commercial license, professional license, crafts license, tourism license, and agricultural license. Industrial licenses are required for manufacturing activities, Commercial licenses are required for trading and Professional licenses are required for services-based industries. The type of license required depends on the type of business and the location.</p>
                 <ul class="accordion single-open style-2 mt-3">
                     <li class="">
