@@ -57,7 +57,7 @@
                         <input type="email" ftype='email' id='Email' name='Email' placeholder="E-Mail" required>
                         <input type="text" id='Mobile' name='Mobile' placeholder="Contact Number">
                         <input type="text" id='Company' name='Company' placeholder="Subject">
-                        <textarea  id='Phone' name='Phone' placeholder="Message">{{ old('message') }}</textarea>
+                        <textarea  id='Phone' name='Phone' placeholder="Message"></textarea>
                         <button type="submit" class="button button-sm btn-submit btn-warnig mt-3" href="#">SUBMIT</button>
                     </form>                    
                 </div>
