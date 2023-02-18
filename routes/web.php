@@ -34,6 +34,10 @@ Route::get('/contact', function () {
     $title = 'Aurega Corporate Services - Contact';
     return view('contact', compact('title'));
 });
+Route::get('/message', function () {
+    $title = 'Aurega Corporate Services - Success';
+    return view('message', compact('title'));
+});
 Route::get('/services/company-incorporation-and-trade-license', function () {
     $title = 'Aurega - Company Incorporation and Trade Licenses';
     return view('services.company-incorporation', compact('title'));

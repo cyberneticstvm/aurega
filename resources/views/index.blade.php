@@ -164,35 +164,26 @@
                             </div>
                         @endif
                     </div>
-                    <form method="post" action="{{ route('contact.email') }}">
+                    <form method="post" action="https://crm.zoho.com/crm/WebToLeadForm" name='WebToLeads2950419000001349003' onSubmit='javascript:document.charset="UTF-8";' accept-charset='UTF-8'>
                         @csrf
+                        <input type='text' style='display:none;' name='xnQsjsdp' value='445896b0bcde9382b9d796cabd9a0d0a65c455f797700c04263c5384dc2af4ac'></input> 
+                        <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
+                        <input type='text' style='display:none;' name='xmIwtLD' value='0943c0b24a3e03c0eb553c3d557dae92a32d567e93542e44b5d35737852256c2'></input> 
+                        <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
+                        <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;aurega.cybernetics.me&#x2f;contact' > </input>
                         <div class="row gx-3 gy-0">
                             <div class="col-12 col-sm-6">
-                                <input type="text" id="name" name="name" placeholder="Name" value="{{ old('name') }}">
-                                @error('name')
-                                <small class="text-danger">{{ $errors->first('name') }}</small>
-                                @enderror
+                                <input type="text" id='First_Name' name='First Name' placeholder="First Name" required>
                             </div>
                             <div class="col-12 col-sm-6">
-                                <input type="email" id="email" name="email" value="{{ old('email') }}" placeholder="E-Mail">
-                                @error('email')
-                                <small class="text-danger">{{ $errors->first('email') }}</small>
-                                @enderror
+                            <input type="text" id='First_Name'  id='Last_Name' name='Last Name' placeholder="Last Name" required>
                             </div>
                         </div>
-                        <input type="text" id="contact" name="contact" value="{{ old('contact') }}" placeholder="Contact Number">
-                        @error('contact')
-						<small class="text-danger">{{ $errors->first('contact') }}</small>
-						@enderror
-                        <input type="text" id="subject" name="subject" value="{{ old('subject') }}" placeholder="Subject">
-                        @error('subject')
-						<small class="text-danger">{{ $errors->first('subject') }}</small>
-						@enderror
-                        <textarea name="message" id="message" placeholder="Message">{{ old('message') }}</textarea>
-                        @error('message')
-						<small class="text-danger">{{ $errors->first('message') }}</small>
-						@enderror
-                        <button type="submit" class="button btn-submit button-sm btn-warnig mt-3" href="#">SUBMIT</button>
+                        <input type="email" ftype='email' id='Email' name='Email' placeholder="E-Mail" required>
+                        <input type="text" id='Mobile' name='Mobile' placeholder="Contact Number">
+                        <input type="text" id='LEADCF4' name='LEADCF4' placeholder="Subject">
+                        <textarea id='LEADCF5' name='LEADCF5' placeholder="Message"></textarea>
+                        <button type="submit" class="button button-sm btn-submit btn-warnig mt-3" href="#">SUBMIT</button>
                     </form>
                 </div>
             </div>

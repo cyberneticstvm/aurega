@@ -56,8 +56,8 @@
                         </div>
                         <input type="email" ftype='email' id='Email' name='Email' placeholder="E-Mail" required>
                         <input type="text" id='Mobile' name='Mobile' placeholder="Contact Number">
-                        <input type="text" id='Company' name='Company' placeholder="Subject">
-                        <textarea  id='Phone' name='Phone' placeholder="Message"></textarea>
+                        <input type="text" id='LEADCF4' name='LEADCF4' placeholder="Subject">
+                        <textarea id='LEADCF5' name='LEADCF5' placeholder="Message"></textarea>
                         <button type="submit" class="button button-sm btn-submit btn-warnig mt-3" href="#">SUBMIT</button>
                     </form>                    
                 </div>
