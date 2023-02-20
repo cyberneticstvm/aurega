@@ -16,7 +16,7 @@
         </div><!-- end row -->
         <div class="row mt-5">
             <div class="col-12">
-                <h4 class="fw-normal">We offer <span class="fw-normal">business setup in</span></h4>
+                <h2>We offer business setup in</h2>
                 <ul class="nav nav-tabs mb-3 mt-3">
                     <li class="nav-item">
                         <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#first">FREE ZONES</button>
@@ -264,7 +264,7 @@
                 </div>
             </div>
             <div class="col-12">
-                <h4 class="fw-light">We offer following <span class="fw-normal">Trade Licenses</span></h4>
+                <h2>We offer following Trade Licenses<h2>
                 <p class="text-justify">There are six types of licenses, namely industrial license, commercial license, professional license, crafts license, tourism license, and agricultural license. Industrial licenses are required for manufacturing activities, Commercial licenses are required for trading and Professional licenses are required for services-based industries. The type of license required depends on the type of business and the location.</p>
                 <ul class="accordion single-open style-2 mt-3">
                     <li class="">
