@@ -31,6 +31,6 @@ class EmailController extends Controller
     } 
 
     public function sitemap(){
-        return view('sitemap');
+        return view('sitemap')->header('Content-Type', 'text/xml');;
     }
 }
