@@ -16,7 +16,7 @@
         </div><!-- end row -->
         <div class="row mt-5">
             <div class="col-12">
-                <h4 class="fw-light">We offer <span class="fw-normal">business setup in</span></h4>
+                <h4 class="fw-normal">We offer <span class="fw-normal">business setup in</span></h4>
                 <ul class="nav nav-tabs mb-3 mt-3">
                     <li class="nav-item">
                         <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#first">FREE ZONES</button>
