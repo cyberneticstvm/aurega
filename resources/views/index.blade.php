@@ -74,7 +74,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Emiley Haley</h5>
@@ -87,7 +87,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Andrew Palmer</h5>
@@ -100,7 +100,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Anna Mullen</h5>
@@ -113,7 +113,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/img-avatar-sm.jpg' }}" alt="">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">John Smith</h5>
