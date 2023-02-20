@@ -3,7 +3,7 @@
     <url>
         <loc>http://auregacs.com</loc>
         <lastmod>{{  Carbon\Carbon::yesterday() }}</lastmod>
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
 </urlset>
