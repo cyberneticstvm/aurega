@@ -8,7 +8,7 @@
 		<meta name="csrf-token" content="{{ csrf_token() }}">
 		<title>{{ $title }}</title>
 		<!-- Favicon -->
-        <link href="{{ public_path().'/assets/images/favicon.png' }}" rel="shortcut icon">
+        <link href="{{ public_path().'/assets/images/aurega/favicon.ico' }}" rel="shortcut icon">
 		<!-- CSS -->
 		<link href="{{ public_path().'/assets/plugins/bootstrap/bootstrap.min.css' }}" rel="stylesheet">
 		<link href="{{ public_path().'/assets/plugins/owl-carousel/owl.carousel.min.css' }}" rel="stylesheet">
@@ -107,7 +107,7 @@
 							<h6 class="font-small fw-medium uppercase">Contact Info</h6>
 							<ul class="list-unstyled">
 								<li>#1403, The Prism Tower, Business Bay, Dubai</li>
-								<li>acs@auregagroup.com</li>
+								<li>hello@auregacs.com</li>
 								<li>+(971) 52 868 6158</li>
 								<li>+(971) 50 693 9558</li>
 							</ul>
