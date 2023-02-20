@@ -65,3 +65,4 @@ Route::get('/services/trademark-registration-and-intellectual-property', functio
 
 Route::post('/email', [EmailController::class, 'email'])->name('contact.email');
 Route::get('/demoemail', [EmailController::class, 'index'])->name('demo.email');
+Route::get('/sitemap.xml', [EmailController::class, 'sitemap']);

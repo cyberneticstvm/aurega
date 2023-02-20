@@ -29,4 +29,8 @@ class EmailController extends Controller
       Mail::to('vijoysasidharan@yahoo.com')->send(new ContactMail()); 
       echo "success";
     } 
+
+    public function sitemap(){
+        return view('sitemap');
+    }
 }
