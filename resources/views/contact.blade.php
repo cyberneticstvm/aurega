@@ -45,7 +45,7 @@
                         <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
                         <input type='text' style='display:none;' name='xmIwtLD' value='0943c0b24a3e03c0eb553c3d557dae92a32d567e93542e44b5d35737852256c2'></input> 
                         <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
-                        <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;aurega.cybernetics.me&#x2f;contact' > </input>
+                        <input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;auregacs.com&#x2f;message' > </input>
                         <div class="row gx-3 gy-0">
                             <div class="col-12 col-sm-6">
                                 <input type="text" id='First_Name' name='First Name' placeholder="First Name" required>
