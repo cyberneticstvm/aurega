@@ -5,7 +5,7 @@
         <div class="mb-5">
             <div class="row text-center">
                 <div class="col-12">
-                    <h4 class="fw-light text-success">Thank you for contacting us. Our executive will reach you shortly!</h4>
+                    <h4 class="fw-light text-success">Thank you for contacting us. Our executive will reach out you shortly!</h4>
                 </div>
             </div>
         </div>
