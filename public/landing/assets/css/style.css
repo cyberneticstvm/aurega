@@ -1061,3 +1061,31 @@ section {
 .text-justify{
   text-align: justify !important;
 }
+.form-control{
+  background-color: #000 !important;
+  color: #fff !important;
+  border-color: #e7b851 !important;
+}
+.wachat img{
+  --b: 8px;
+  --g: 14px;
+  --c: #40c351;
+  --s: 250px;
+
+  height: 5%;
+  right: 5%;
+  bottom:1%;
+  position: fixed;
+  z-index: 9999;
+
+  aspect-ratio: 1;
+  outline-offset: calc(var(--s)/-2);
+  cursor: pointer;
+  transition: 0.3s;
+}
+.wachat img:hover{
+  outline: var(--b) solid var(--c);
+  outline-offset: var(--g);
+  border-radius: 50%;
+}
+

@@ -46,7 +46,7 @@
         <!-- Uncomment below if you prefer to use an image logo -->
         <a href="index.html"><img src="{{ public_path().'/assets/images/aurega/logo-white.png' }}" alt="Aurega" class="img-fluid"></a>
       </div>
-      <div class="col-5 text-end"><a href="tel:+91 9212155400" class="a_phone_head"><i class="bx bx-mobile-alt" aria-hidden="true"></i> +919212155400</a></div>
+      <div class="col-5 text-end"><a href="tel:+919212155400" class="a_phone_head"><i class="bx bx-mobile-alt" aria-hidden="true"></i> +91 9212155400</a></div>
       <div class="col-2 text-end"><img src="{{ public_path().'/landing/assets/img/30-years-badge-logo.png' }}" style="height:25%; width:25%;"></div>
     </div>
   </header><!-- End Header -->
@@ -75,25 +75,25 @@
               <p class="mb-5" data-aos="fade-right" data-aos-delay="100">Our expert shall assist you to setup your Crypto, Trading, Manufacturing and other business of choice in Dubai and other Emirates of UAE.</p>
             </div>
             <div class="col-lg-6 enqform" data-aos-delay="200">
-                <h5 class="text-center text-warning mb-3">Enquire Now</h5>
+                <h5 class="text-center text-warning mb-3">ENQUIRE NOW</h5>
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="row">
-                    <div class="col-md-6 form-group mb-3">
+                    <div class="col-6 form-group mb-3">
                         <input type="text" name="first_name" class="form-control" placeholder="First Name *" required>
                     </div>
-                    <div class="col-md-6 form-group mb-3">
+                    <div class="col-6 form-group mb-3">
                         <input type="text" name="last_name" class="form-control" placeholder="Last Name *" required>
                     </div>
                     <div class="col-md-12 form-group">
                         <input type="email" class="form-control" name="email" placeholder="Email *" required>
                     </div>
-                    <div class="col-md-3 form-group mt-3">
+                    <div class="col-3 form-group mt-3">
                         <select class="form-control">
                             <option value="+971">+971 (UAE)</option>
                             <option value="+91">+91 (India)</option>
                         </select>
                     </div>
-                    <div class="col-md-9 form-group mt-3">
+                    <div class="col-9 form-group mt-3">
                         <input type="text" class="form-control" name="mobile" maxlength="10" placeholder="Mobile *" required>
                     </div>
                     <div class="col-md-12 form-group mt-3">
@@ -157,7 +157,7 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
             <div class="feature-1 text-center">
               <div class="wrap-icon icon-1">
-                <i class="bi bi-bar-chart"></i>
+                <i class="bi bi-currency-dollar"></i>
               </div>
               <h3 class="mb-3">Low Prices</h3>
               <p>We offer best price in town for incorporating international business company in the UAE. All the charges are informed and there are no hidden costs.</p>
@@ -166,7 +166,7 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="">
             <div class="feature-1 text-center">
               <div class="wrap-icon icon-1">
-                <i class="bi bi-people"></i>
+                <i class="bi bi-bookmark-check"></i>
               </div>
               <h3 class="mb-3">Quality Service</h3>
               <p>With the help of our talented, reliable and trustworthy consultants and staffs, we ensure that your decision to choose Aurega Group is one you will be proud of.</p>
@@ -175,7 +175,7 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="">
             <div class="feature-1 text-center">
               <div class="wrap-icon icon-1">
-                <i class="bi bi-people"></i>
+                <i class="bi bi-emoji-smile"></i>
               </div>
               <h3 class="mb-3">Customer Satisfaction</h3>
               <p>With Aurega, you can enjoy a seamless experience incorporating your business in the UAE. We are always available just a phone call away.</p>
@@ -184,7 +184,7 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="">
             <div class="feature-1 text-center">
               <div class="wrap-icon icon-1">
-                <i class="bi bi-people"></i>
+                <i class="bi bi-umbrella"></i>
               </div>
               <h3 class="mb-3">Under One Roof</h3>
               <p>Aurega is your ‘one-stop-shop’ consulting agency providing everything you need to successfully start your business in the UAE.</p>
@@ -209,35 +209,35 @@
             <div class="step">
               <span class="number">01</span>
               <h3>Business Setup Services</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="step">
               <span class="number">02</span>
               <h3>Offshore Company Services</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Dubai Offshore business setup is great for entrepreneurs and business owners who want to expand their operations and take advantage of the amazing opportunities that this region offers.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="step">
               <span class="number">03</span>
               <h3>Consulting & Advisory Services</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Aurega is a leading business consulting firm providing a wide range of services to clients throughout the Middle East. Founded in 2004, the company has established itself as a leader in the business consulting field.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="step">
               <span class="number">04</span>
               <h3>Freezone Companies</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Dubai Free Zones are economic hubs that offer businesses a unique range of incentives and benefits. These free zones are strategically located throughout the emirate and provide a range of services such as duty-free import and export of goods, tax exemption, and 100% foreign ownership. </p>
             </div>
           </div>          
           <div class="col-md-4">
             <div class="step">
               <span class="number">05</span>
               <h3>PRO Services</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Aurega provide assistance to companies and individuals in obtaining visas, obtaining trade licenses, and much more. We have experienced professionals who are well-versed in the legal and regulatory framework of the UAE. We can help to optimize the process of obtaining the necessary approvals and documents.</p>
             </div>
           </div>
         </div>
@@ -251,10 +251,10 @@
           <div class="col-md-4 me-auto">
             <h2 class="mb-4">Quick, Easy & Secure Business Setup</h2>
             <p class="mb-4">Get your business registered in 3 to 7 days with complete ownership, confidentiality, tax optimization and asset protection.</p>
-            <p><a href="#" class="btn btn-primary">Connect with Us</a></p>
+            <p><a href="/registration" class="btn btn-primary">Connect with Us</a></p>
           </div>
           <div class="col-md-6" data-aos="fade-left">
-            <img src="{{ public_path().'/landing/assets/img/undraw_svg_2.svg' }}" alt="Image" class="img-fluid">
+            <img src="{{ public_path().'/assets/images/aurega/medium-shot-men-women-work.jpg' }}" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -266,10 +266,10 @@
           <div class="col-md-4 ms-auto order-2">
             <h2 class="mb-4">Always By Your Side</h2>
             <p class="mb-4">Over 100 partner office connections across the Americas, Asia Pacific, Europe, Africa and the Middle East.</p>
-            <p><a href="#" class="btn btn-primary">Get Started with Your Business</a></p>
+            <p><a href="/registration" class="btn btn-primary">Get Started with Your Business</a></p>
           </div>
           <div class="col-md-6" data-aos="fade-right">
-            <img src="{{ public_path().'/landing/assets/img/undraw_svg_3.svg' }}" alt="Image" class="img-fluid">
+            <img src="{{ public_path().'/assets/images/aurega/male-female-office-workers.jpg' }}" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -369,8 +369,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-  </main><!-- End #main -->
-
+  </main><!-- End #main -->  
   <!-- ======= Footer ======= -->
   <footer class="footer" role="contentinfo">
     <div class="container">
@@ -379,16 +378,16 @@
           <h3>About Aurega</h3>
           <p class="text-justify">Aurega Group is the global gateway to multidisciplinary business requirements. We're one of the most trusted business setup advisory establishments which give comprehensive professional services to individuals, associations and large corporates. As we've times of experience in serving the trade and new business sector universally, we give largely substantiated business setup services and veritable cooperative platform to our clients.</p>
           <p class="social">
-            <a href="#"><span class="bi bi-twitter"></span></a>
-            <a href="#"><span class="bi bi-facebook"></span></a>
-            <a href="#"><span class="bi bi-linkedin"></span></a>
+            <a href="https://instagram.com/auregagroup/?hl=en" target="_blank"><span class="bi bi-instagram"></span></a>
+            <a href="https://facebook.com/auregagroup/" target="_blank"><span class="bi bi-facebook"></span></a>
+            <a href="https://linkedin.com/company/auregaglobal/" target="_blank"><span class="bi bi-linkedin"></span></a>
           </p>
         </div>
         <div class="col-md-7 ms-auto">
           <div class="row site-section pt-0">
             <div class="col-md-6 mb-4 mb-md-0">
               <h3>India Contact Details</h3>
-              <p>Raman Tandon, Chartered Accountant,<br>Managing Partners, MONDIALS<br>+91 9212155400<br>+919958688331</p>
+              <p>Raman Tandon, Chartered Accountant,<br>Managing Partners, MONDIALS<br>+91 9212155400<br>+91 9958688331</p>
             </div>
             <div class="col-md-6 mb-4 mb-md-0">
               <h3>UAE Contact Details</h3>
@@ -406,7 +405,7 @@
 
     </div>
   </footer>
-
+  <div class="wachat"><a href="https://web.whatsapp.com/send?phone=+971528686158&amp;text=Hello! I am interested in your service" target="_blank" class="for_desktop"><img src="{{ public_path().'/landing/assets/img/whatsapp.png' }}"></a></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
