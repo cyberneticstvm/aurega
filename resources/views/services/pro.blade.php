@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row g-4 g-lg-5 align-items-center">
             <div class="col-12 col-lg-5 col-xl-6">
-                <img src="{{ public_path().'/assets/images/aurega/services/three-business-people-meeting.jpg' }}" alt="PRO Service">
+                <img src="{{ public_path().'/assets/images/aurega/services/three-business-people-meeting.jpg' }}" alt="PRO Services">
             </div>
             <div class="col-12 col-lg-7 col-xl-6">
                 <h2>PRO Services</h2>
