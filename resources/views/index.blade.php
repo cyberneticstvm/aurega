@@ -22,7 +22,7 @@
             <div class="col-12 col-lg-4">
                 <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-men-women-work.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation & Trade Licenses</span></h5>
+                    <h1 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation & Trade Licenses</span></h1>
                     <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
                     <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/company-incorporation-and-trade-license">Let's Talk</a></div>
                 </div>
@@ -31,7 +31,7 @@
             <div class="col-12 col-lg-4">
                 <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-smiley-woman-with-passport.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Golden Visa</span></h5>
+                    <h1 class="fw-light text-center">We do<br><span class="fw-normal">Golden Visa</span></h1>
                     <p class="text-justify">The United Arab Emirates (UAE) recently decided to issue a 10-year golden visa to professionals that will include foreign investors, entrepreneurs, engineers, physicians, Ph.Ds. who are from UAE accredited universities.</p>
                     <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/golden-visa">Let's Talk</a></div>
                 </div>
@@ -40,7 +40,7 @@
             <div class="col-12 col-lg-4">
                 <img class="border-radius" src="{{ public_path().'/assets/images/aurega/male-female-office-workers.jpg' }}" alt="">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                    <h5 class="fw-light text-center">We do<br><span class="fw-normal">Business Consulting</span></h5>
+                    <h1 class="fw-light text-center">We do<br><span class="fw-normal">Business Consulting</span></h1>
                     <p class="text-justify">Aurega helps to create greater opportunities and the new work of modern business. Let’s create new ways for Business to do Business who wants to increase their efficiency and gain a competitive edge in the marketplace.</p>
                     <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/business-consulting">Let's Talk</a></div>
                 </div>
