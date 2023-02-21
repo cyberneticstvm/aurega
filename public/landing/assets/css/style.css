@@ -1073,8 +1073,8 @@ section {
   --s: 250px;
 
   height: 5%;
-  right: 5%;
-  bottom:1%;
+  right: 15%;
+  bottom:2%;
   position: fixed;
   z-index: 9999;
 

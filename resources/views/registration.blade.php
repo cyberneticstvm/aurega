@@ -41,12 +41,12 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex justify-content-between align-items-center">
 
-      <div class="col-5 logo">
+      <div class="col-4 logo">
         <!--<h1><a href="index.html">Aurega</a></h1>-->
         <!-- Uncomment below if you prefer to use an image logo -->
         <a href="index.html"><img src="{{ public_path().'/assets/images/aurega/logo-white.png' }}" alt="Aurega" class="img-fluid"></a>
       </div>
-      <div class="col-5 text-end"><a href="tel:+919212155400" class="a_phone_head"><i class="bx bx-mobile-alt" aria-hidden="true"></i> +91 9212155400</a></div>
+      <div class="col-6 text-end"><a href="tel:+919212155400" class="a_phone_head"><i class="bx bx-mobile-alt" aria-hidden="true"></i> +91 9212155400</a></div>
       <div class="col-2 text-end"><img src="{{ public_path().'/landing/assets/img/30-years-badge-logo.png' }}" style="height:25%; width:25%;"></div>
     </div>
   </header><!-- End Header -->
