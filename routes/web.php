@@ -62,6 +62,10 @@ Route::get('/services/trademark-registration-and-intellectual-property', functio
     $title = 'Aurega - trademark Registration and Intellectual Property';
     return view('services.trademark', compact('title'));
 });
+Route::get('/registration', function () {
+    $title = 'Aurega - Service Enquiry Form';
+    return view('registration', compact('title'));
+});
 
 Route::post('/email', [EmailController::class, 'email'])->name('contact.email');
 Route::get('/demoemail', [EmailController::class, 'index'])->name('demo.email');
