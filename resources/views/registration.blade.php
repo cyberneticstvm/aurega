@@ -79,8 +79,8 @@
         <div class="col-12">
           <div class="row">
             <div class="col-lg-6 text-center text-lg-start">
-              <h1 data-aos="fade-right">Setup Your Company <span class="text-warning">in UAE</span></h1>
-              <p class="mb-5" data-aos="fade-right" data-aos-delay="100">Our expert shall assist you to setup your Crypto, Trading, Manufacturing and other business of choice in Dubai and other Emirates of UAE.</p>
+              <h1 data-aos="fade-right">GET YOUR COMPANY SETUP <span class="text-warning">IN DUBAI</span></h1>
+              <p class="mb-5" data-aos="fade-right" data-aos-delay="100">With decade of experience, We help you to fulfill your global aspirations. Get your Crypto, Trading, Services, Consulting and other business company setup in Dubai, UAE.</p>
             </div>
             <div class="col-lg-6 enqform" data-aos-delay="200">
                 <h5 class="text-center text-warning mb-3">ENQUIRE NOW</h5>
