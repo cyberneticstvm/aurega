@@ -1047,7 +1047,7 @@ section {
 }
 .a_phone_head{
   color: #e7b851 !important;
-  float: right;
+  /*float: right;*/
   text-decoration: none;
   transition: all 0.4s ease;
   font-size: 20px;
