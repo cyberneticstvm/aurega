@@ -76,37 +76,44 @@
             </div>
             <div class="col-lg-6 enqform" data-aos-delay="200">
                 <h5 class="text-center text-warning mb-3">ENQUIRE NOW</h5>
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="https://crm.zoho.com/crm/WebToLeadForm" method="post" role="form" name=WebToLeads2950419000001359054 onSubmit='javascript:document.charset="UTF-8";' accept-charset='UTF-8'>
+              <input type='text' style='display:none;' name='xnQsjsdp' value='445896b0bcde9382b9d796cabd9a0d0a65c455f797700c04263c5384dc2af4ac'></input> 
+              <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
+              <input type='text' style='display:none;' name='xmIwtLD' value='0943c0b24a3e03c0eb553c3d557dae92e3aadfe5c2e1f14b635b86418a675711'></input> 
+              <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
+              <input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;auregacs.com&#x2f;message' > </input>
+              <input type='text' id='LEADCF8' style='display:none;' name='LEADCF8' maxlength='255' value='ACS-REG'>
                 <div class="row">
                     <div class="col-6 form-group mb-3">
-                        <input type="text" name="first_name" class="form-control" placeholder="First Name *" required>
+                        <input type="text" id='First_Name' name='First Name' class="form-control" placeholder="First Name *" required>
                     </div>
                     <div class="col-6 form-group mb-3">
-                        <input type="text" name="last_name" class="form-control" placeholder="Last Name *" required>
+                        <input type="text" id='Last_Name' name='Last Name' class="form-control" placeholder="Last Name *" required>
                     </div>
                     <div class="col-md-12 form-group">
-                        <input type="email" class="form-control" name="email" placeholder="Email *" required>
+                        <input type="email" class="form-control" id='Email' name='Email' placeholder="Email *" required>
                     </div>
                     <div class="col-3 form-group mt-3">
-                        <select class="form-control">
-                            <option value="+971">+971 (UAE)</option>
-                            <option value="+91">+91 (India)</option>
+                        <select class="form-control" id='LEADCF7' name='LEADCF7'>
+                          <option value="">Select Service *</option>
+                          <option value='&#x2b;971&#x20;&#x28;UAE&#x29;'>&#x2b;971 &#x28;UAE&#x29;</option>
+			                    <option value='&#x2b;91&#x20;&#x28;India&#x29;'>&#x2b;91 &#x28;India&#x29;</option>
                         </select>
                     </div>
                     <div class="col-9 form-group mt-3">
-                        <input type="text" class="form-control" name="mobile" maxlength="10" placeholder="Mobile *" required>
+                        <input type="text" class="form-control" id='Mobile' name='Mobile' maxlength="30" placeholder="Mobile *" required>
                     </div>
                     <div class="col-md-12 form-group mt-3">
-                        <select class="form-control" name="service">
+                        <select class="form-control" id='LEADCF6' name='LEADCF6'>
                             <option value="">Select Service *</option>
-                            <option value="">Company Incorporation</option>
-                            <option value="">Brand Registration</option>
-                            <option value="">Accounting & Book-keeping</option>
-                            <option value="">Trade Licenses</option>
-                            <option value="">PRO Services</option>
-                            <option value="">Immigration Services</option>
-                            <option value="">VAT/Taxation Services</option>
-                            <option value="">Corporate Service Agent</option>
+                            <option value='Company&#x20;Incorporation'>Company Incorporation</option>
+                            <option value='Brand&#x20;Registration'>Brand Registration</option>
+                            <option value='Accounting&#x20;&amp;&#x20;Book-keeping'>Accounting &amp; Book-keeping</option>
+                            <option value='Trade&#x20;Licenses'>Trade Licenses</option>
+                            <option value='PRO&#x20;Services'>PRO Services</option>
+                            <option value='Immigration&#x20;Services'>Immigration Services</option>
+                            <option value='VAT&#x2f;Taxation&#x20;Services'>VAT&#x2f;Taxation Services</option>
+                            <option value='Corporate&#x20;Service&#x20;Agent'>Corporate Service Agent</option>
                         </select>
                     </div>
                     <div class="col-md-12 form-group mt-3">
