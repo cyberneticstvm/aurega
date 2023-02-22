@@ -69,9 +69,9 @@
 				<!-- Menu Extra -->
 				<div class="header-menu-extra">
 					<ul class="list-inline">
-						<li><a href="#"><i class="bi bi-facebook"></i></a></li>
-						<li><a href="#"><i class="bi bi-twitter"></i></a></li>
-						<li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+						<li><a href="https://facebook.com/auregagroup/" target="_blank"><i class="bi bi-facebook"></i></a></li>
+						<li><a href="https://instagram.com/auregagroup/?hl=en" target="_blank"><i class="bi bi-instagram"></i></a></li>
+						<li><a href="https://linkedin.com/company/auregaglobal/" target="_blank"><i class="bi bi-linkedin"></i></a></li>
 					</ul>
 				</div>
 				<!-- Menu Toggle -->
