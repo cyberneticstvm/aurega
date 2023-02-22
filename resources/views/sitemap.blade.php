@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>http://auregacs.com</loc>
-        <lastmod>{{  Carbon\Carbon::yesterday() }}</lastmod>
+        <lastmod>{{  Carbon\Carbon::createFromTimestamp(Carbon\Carbon::yesterday())->timezone(Config::get('app.timezone'))->toDateTimeString() }}</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
