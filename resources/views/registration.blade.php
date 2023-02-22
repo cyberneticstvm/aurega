@@ -95,7 +95,7 @@
                     </div>
                     <div class="col-3 form-group mt-3">
                         <select class="form-control" id='LEADCF7' name='LEADCF7'>
-                          <option value="">Select Service *</option>
+                          <option value="">Country Code *</option>
                           <option value='&#x2b;971&#x20;&#x28;UAE&#x29;'>&#x2b;971 &#x28;UAE&#x29;</option>
 			                    <option value='&#x2b;91&#x20;&#x28;India&#x29;'>&#x2b;91 &#x28;India&#x29;</option>
                         </select>
