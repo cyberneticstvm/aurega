@@ -54,7 +54,7 @@
         <!-- Uncomment below if you prefer to use an image logo -->
         <a href="/"><img src="{{ public_path().'/assets/images/aurega/logo-white.png' }}" alt="Aurega" class="img-fluid"></a>
       </div>
-      <div class="col-6 text-end"><a href="tel:+919212155400" class="a_phone_head"></i> +91 9212155400</a>&nbsp;&nbsp;<a href="tel:+971506939558" class="a_phone_head"> +971 506939558</a></div>
+      <div class="col-6 text-end"><a href="tel:+919212155400" class="a_phone_head"></i> +91 9212155400</a><a href="tel:+971506939558" class="a_phone_head"> +971 506939558</a></div>
       <div class="col-2 text-end"><img src="{{ public_path().'/landing/assets/img/30-years-badge-logo.png' }}" style="height:25%; width:25%;"></div>
     </div>
   </header><!-- End Header -->
