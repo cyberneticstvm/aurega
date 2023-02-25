@@ -10533,25 +10533,4 @@ div[class*='bg-color'] .border-left {
 h1{
   font-size: large !important;
 }
-.wachat img{
-  --b: 8px;
-  --g: 14px;
-  --c: #40c351;
-  --s: 250px;
 
-  height: 5%;
-  right: 6%;
-  bottom:13%;
-  position: fixed;
-  z-index: 99999999;
-
-  aspect-ratio: 1;
-  outline-offset: calc(var(--s)/-2);
-  cursor: pointer;
-  transition: 0.3s;
-}
-.wachat img:hover{
-  outline: var(--b) solid var(--c);
-  outline-offset: var(--g);
-  border-radius: 50%;
-}
