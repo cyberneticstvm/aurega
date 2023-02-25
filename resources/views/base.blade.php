@@ -140,12 +140,12 @@
 				</div><!-- end container -->
 			</div>
 		</footer>
-		<script  type="text/javascript">  var config = {    phone :" 971506939558",    call :"Let\'s Talk",    position :"ww-right",    size : "ww-normal",    text : "Hi, I\'m interested in your service",    type: "ww-standard",    brand: "Aurega Corporate Services",    subtitle: "",    welcome: "Hi, how can we help you today?"  };  var proto = document.location.protocol, host = "cloudfront.net", url = proto + "//d3kzab8jj16n2f." + host;    var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/v2/main.js";    s.onload = function () { tmWidgetInit(config) };    var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);</script>0
-		<!-- Scroll to top button-->
+		<script  type="text/javascript">  var config = {    phone :" 971506939558",    call :"Let\'s Talk",    position :"ww-right",    size : "ww-normal",    text : "Hi, I\'m interested in your service",    type: "ww-standard",    brand: "Aurega Corporate Services",    subtitle: "",    welcome: "Hi, how can we help you today?"  };  var proto = document.location.protocol, host = "cloudfront.net", url = proto + "//d3kzab8jj16n2f." + host;    var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/v2/main.js";    s.onload = function () { tmWidgetInit(config) };    var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);</script>
+		<!-- Scroll to top button
 		<div class="scrolltotop">
 			<a class="button-circle button-circle-md button-circle-dark" href="#"><i class="bi bi-arrow-up"></i></a>
 		</div>
-		<!--end Scroll to top button -->
+		end Scroll to top button -->
 
 		<!-- ***** JAVASCRIPTS ***** -->
 		<script src="{{ public_path().'/assets/plugins/jquery.min.js' }}"></script>
@@ -166,6 +166,7 @@
 					$(".btn-submit").html("<span class='spinner-grow spinner-grow-sm' role='status' aria-hidden='true'></span>");
 				});
 
+				$("#whatsapp-widget a").attr("src", "https://web.whatsapp.com/send?phone=+971528686158&amp;text=Hello! I am interested in your service")
 			});
 		</script>
 	</body>
