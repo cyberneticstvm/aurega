@@ -167,7 +167,7 @@
 				});
 
 				$("#whatsapp-widget a").attr("href", "https://web.whatsapp.com/send?phone=+971528686158&text=Hello! I am interested in your service");
-				$("#whatsapp-widget").css({'right': '15%'});
+				$(".tawk-icon-right img, .tawk-icon-right i").css({'right': '15%'});
 			});
 		</script>
 		<!--Start of Tawk.to Script-->
