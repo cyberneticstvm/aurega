@@ -166,7 +166,7 @@
 					$(".btn-submit").html("<span class='spinner-grow spinner-grow-sm' role='status' aria-hidden='true'></span>");
 				});
 
-				$("#whatsapp-widget a").attr("src", "https://web.whatsapp.com/send?phone=+971528686158&amp;text=Hello! I am interested in your service")
+				$("#whatsapp-widget a").attr("href", "https://web.whatsapp.com/send?phone=+971528686158&amp;text=Hello! I am interested in your service")
 			});
 		</script>
 	</body>
