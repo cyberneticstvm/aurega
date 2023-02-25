@@ -64,6 +64,9 @@
 						<li class="nav-item">
 							<a class="nav-link" href="/contact">Contact Us</a>
 						</li>
+						<li class="nav-item">
+							<a class="nav-link text-warning" href="https://auregagroup.com">Aurega Group</a>
+						</li>
 					</ul>
 				</div>
 				<!-- Menu Extra -->
