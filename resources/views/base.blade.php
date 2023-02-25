@@ -99,6 +99,10 @@
 								<li><a href="/contact">Contact</a></li>
 								<li><a href="/careers">Careers</a></li>
 							</ul>
+							<p>Our Parent Organization</p>
+							<ul class="list-dash animate-links">
+								<li><a href="https://auregagroup.com" target="_blank">Aurega Group</a></li>
+							</ul>
 						</div>
 						<div class="col-6 col-sm-6 col-lg-3">
 							<h6 class="font-small fw-medium uppercase">Services We offered</h6>
@@ -115,7 +119,7 @@
 							<h6 class="font-small fw-medium uppercase">Contact Info</h6>
 							<ul class="list-unstyled">
 								<li>#1403, The Prism Tower, Business Bay, Dubai</li>
-								<li>hello@auregacs.com</li>
+								<li>mkt@auregagroup.com</li>
 								<li>+(971) 52 868 6158</li>
 								<li>+(971) 50 693 9558</li>
 							</ul>

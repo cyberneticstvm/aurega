@@ -141,7 +141,7 @@
                 </div>
                 <div class="mb-4">
                     <h6 class="fw-medium m-0">Email:</h6>
-                    <p>hello@auregacs.com</p>
+                    <p>mkt@auregagroup.com</p>
                 </div>
                 <div>
                     <h6 class="fw-medium m-0">Address:</h6>
