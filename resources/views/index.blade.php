@@ -81,7 +81,7 @@
                             <span class="font-small text-white-09">Manager - Cybernetics</span>
                         </div>
                     </div>
-                    <p class="text-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="text-white">The professionals at Aurga really take the time to understand our unique business needs and have undoubtedly provided the critical support we require to efficiently manage processes in support of preparing our company for future business endeavors. We really appreciate the time they dedicate to helping our company constantly move forward.</p>
                 </div>
                 <!-- Testimonial Slider Item 2 -->
                 <div class="bg-color-spring-red-07 border-radius p-5">
@@ -90,11 +90,11 @@
                             <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="Feedback">
                         </div>
                         <div class="d-inline-block">
-                            <h5 class="fw-normal m-0 line-height-140">Andrew Palmer</h5>
-                            <span class="font-small text-white-09">Developer - Enieco</span>
+                            <h5 class="fw-normal m-0 line-height-140">Biju Janardhanan</h5>
+                            <span class="font-small text-white-09">CEO - Enieco</span>
                         </div>
                     </div>
-                    <p class="text-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="text-white">We have received great services and assistance. Every steps were clear, organised for us and well communicated. It made the process easier and we could make the right choice for our company and businesses. Thanks to Aurega and its consultants who offered us the best service and accompanied us in every step along the way.</p>
                 </div>
                 <!-- Testimonial Slider Item 3 -->
                 <div class="bg-color-spring-red-07 border-radius p-5">
@@ -103,11 +103,11 @@
                             <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="Feedback">
                         </div>
                         <div class="d-inline-block">
-                            <h5 class="fw-normal m-0 line-height-140">Anna Mullen</h5>
-                            <span class="font-small text-white-09">Designer - Energy Engineering</span>
+                            <h5 class="fw-normal m-0 line-height-140">Abdul Samad</h5>
+                            <span class="font-small text-white-09">Designer - Artemirate</span>
                         </div>
                     </div>
-                    <p class="text-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="text-white">Excellent customer service! Creative zone is organising my work visa and today I had an excellent experience getting my medical done. Aurega's employee picked me up to take me to my appointment. His service was punctual, professional and polite. Everything was organised very quickly. Thank you very much Aurega.</p>
                 </div>
                 <!-- Testimonial Slider Item 4 -->
                 <div class="bg-color-spring-red-07 border-radius p-5">
@@ -116,11 +116,11 @@
                             <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="Feedback">
                         </div>
                         <div class="d-inline-block">
-                            <h5 class="fw-normal m-0 line-height-140">John Smith</h5>
-                            <span class="font-small text-white-09">Marketer - Mono</span>
+                            <h5 class="fw-normal m-0 line-height-140">Mohammed Labadi</h5>
+                            <span class="font-small text-white-09">Entrepreneur - Spliftglobal</span>
                         </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p>I knew nothing about UAE business registration and the whole emirates id and banking thing. These guys helped me get the whole thing done super fast.</p>
                 </div>
             </div><!-- end owl-carousel -->
         </div><!-- end container -->
