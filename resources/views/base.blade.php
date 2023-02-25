@@ -65,7 +65,7 @@
 							<a class="nav-link" href="/contact">Contact Us</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link text-warning" href="https://auregagroup.com">Aurega Group</a>
+							<a class="nav-link text-warning" href="https://auregagroup.com" target="_blank">Aurega Group</a>
 						</li>
 					</ul>
 				</div>
@@ -139,6 +139,7 @@
 					</div><!-- end row -->
 				</div><!-- end container -->
 			</div>
+			<script  type="text/javascript">  var config = {    phone :" 971506939558",    call :"Let\'s Talk",    position :"ww-right",    size : "ww-normal",    text : "Hi, I\'m interested in your service",    type: "ww-standard",    brand: "Aurega Corporate Services",    subtitle: "",    welcome: "Hi, how can we help you today?"  };  var proto = document.location.protocol, host = "cloudfront.net", url = proto + "//d3kzab8jj16n2f." + host;    var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/v2/main.js";    s.onload = function () { tmWidgetInit(config) };    var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);</script>
 		</footer>
 
 		<!-- Scroll to top button -->
