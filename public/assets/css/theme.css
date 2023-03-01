@@ -10534,7 +10534,7 @@ h1{
   font-size: large !important;
 }
 #whatsapp-widget {
-  position: fixed;
-  right: 20px;
+  position: fixed !important;
+  right: 20px !important;
   bottom: 100px !important;
 }
