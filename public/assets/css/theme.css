@@ -674,8 +674,8 @@ div[class*='bg-color'] .pagination.hover-style-2 .page-item.active .page-link {
 
 .scrolltotop {
   position: fixed;
-  right: 15;
-  bottom: 80;
+  right: 20px;
+  bottom: 20px;
   -webkit-transform: translateY(20px);
   transform: translateY(20px);
   z-index: 992;
@@ -10532,4 +10532,7 @@ div[class*='bg-color'] .border-left {
 }
 h1{
   font-size: large !important;
+}
+#whatsapp-widget {
+  bottom: 100px !important;
 }
