@@ -20,7 +20,7 @@
 <body>
 
 <div class="container">
-    <h5 class="text-success">Thank you for contacting us. Our executive will reach out you shortly!</h5>
+    <h2 class="text-success text-center mt-5">Thank you for contacting us. Our executive will reach out you shortly!</h2>
     <div class="mt-5 text-center">
         <a class="button button-lg button-rounded button-turquiose" href="/registration">Home</a>
     </div>

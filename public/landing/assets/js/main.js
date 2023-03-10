@@ -122,3 +122,23 @@
   });
 
 })()
+
+const input = document.getElementById("First_Name");
+const input1 = document.getElementById("Last_Name");
+const input2 = document.getElementById("Mobile");
+const regex = new RegExp("^[a-zA-Z]*$");
+const regex1 = new RegExp("^[0-9]*$");
+
+input.addEventListener("beforeinput", (event) => {
+  if (event.data != null && !regex.test(event.data)) 
+    event.preventDefault();
+});
+input1.addEventListener("beforeinput", (event) => {
+  if (event.data != null && !regex.test(event.data)) 
+    event.preventDefault();
+});
+input2.addEventListener("beforeinput", (event) => {
+  if (event.data != null && !regex1.test(event.data)) 
+    event.preventDefault();
+});
+
