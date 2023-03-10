@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-PDVXEYPJPX"></script>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11096916840"></script>
 		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-			gtag('config', 'G-PDVXEYPJPX');
+		gtag('config', 'AW-11096916840');
+		gtag('config', 'G-PDVXEYPJPX');
 		</script>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
