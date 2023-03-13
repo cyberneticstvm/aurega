@@ -432,7 +432,7 @@
   <script src="{{ public_path().'/landing/assets/vendor/php-email-form/validate.js' }}"></script>
 
   <!-- Template Main JS File -->
-  <script src="{{ public_path().'/landing/assets/js/main.js' }}"></script>
+  <script src="{{ public_path().'/landing/assets/js/main.js?v1' }}"></script>
 
 </body>
 
