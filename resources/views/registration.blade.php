@@ -111,7 +111,7 @@
                         </select>
                     </div>
                     <div class="col-9 form-group mt-3">
-                        <input type="text" class="form-control" id='Mobile' name='Mobile' maxlength="30" placeholder="Mobile *" required>
+                        <input type="text" class="form-control" id='Mobile' name='Mobile' maxlength="10" placeholder="Mobile *" required>
                     </div>
                     <div class="col-md-12 form-group mt-3">
                         <select class="form-control" id='LEADCF6' name='LEADCF6'>
@@ -127,7 +127,7 @@
                         </select>
                     </div>
                     <div class="col-md-12 form-group mt-3">
-                        <button type="submit" class="btn btn-warning float-end text-white">SUBMIT</button>
+                        <button type="submit" onClick="javascript: return validateForm()" class="btn btn-warning float-end text-white">SUBMIT</button>
                     </div>
                 </div>
 
