@@ -33,9 +33,6 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
-</head>
-
-<body>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11096916840"></script>
 		<script>
@@ -45,6 +42,9 @@
 
 		gtag('config', 'AW-11096916840');
 	</script>
+</head>
+
+<body>
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
