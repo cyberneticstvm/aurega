@@ -148,21 +148,21 @@ function validateForm(){
   var mobile = document.getElementById("Mobile").value;
   if(!ccode){
     alert("Country Code should not be left blank");
-    return false;
+    return false
   }
   if(!service){
     alert("Service should not be left blank");
-    return false;
+    return false
   }
   if(ccode == '+91 (India)'){    
     if(mobile.length != 10){
       alert('Mobile number should be 10 digits');
-      return false;
+      return false
     }
   }else{
     if(mobile.length != 9){
       alert('Mobile number should be 9 digits');
-      return false;
+      return false
     }
   }
   return true;
