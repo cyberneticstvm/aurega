@@ -9,7 +9,6 @@
 		gtag('js', new Date());
 
 		gtag('config', 'AW-11096916840');
-		gtag('config', 'G-PDVXEYPJPX');
 		</script>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

@@ -10,7 +10,6 @@
 		gtag('js', new Date());
 
 		gtag('config', 'AW-11096916840');
-		gtag('config', 'G-PDVXEYPJPX');
 	</script>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
