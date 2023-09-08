@@ -51,7 +51,7 @@
                                 <input type="text" id='First_Name' name='First Name' placeholder="First Name" required>
                             </div>
                             <div class="col-12 col-sm-6">
-                            <input type="text" id='First_Name'  id='Last_Name' name='Last Name' placeholder="Last Name" required>
+                            <input type="text" id='Last_Name' name='Last Name' placeholder="Last Name" required>
                             </div>
                         </div>
                         <input type="email" ftype='email' id='Email' name='Email' placeholder="E-Mail" required>
