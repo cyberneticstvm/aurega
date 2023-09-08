@@ -145,7 +145,7 @@
                 </div>
                 <div>
                     <h6 class="fw-medium m-0">Address:</h6>
-                    <p>#1403, The Prism Tower, Business Bay, Dubai</p>
+                    <p>#106, Bay Square 11, Business Bay, Dubai</p>
                 </div>
             </div>
             <!-- Contact Form -->

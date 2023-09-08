@@ -34,14 +34,14 @@
                         <ul class="accordion single-open style-2 mt-3">
                             <li class="">
                                 <div class="accordion-title">
-                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">Dubai International Financial Centre</h6>
+                                    <h6 class="font-family-tertiary font-small fw-medium uppercase">DIFC</h6>
                                 </div>
                                 <div class="accordion-content">
-                                    <p class="text-justify">Set up in 2004, DIFC was established to oversee the strategic development, operational management and administration of Dubai’s financial companies. The Authority is committed to creating value for its various stakeholders. This commitment is expressed in DIFCA’s four-tiered management strategy:</p>
+                                    <p class="text-justify">Set up in 2004, DIFC was established to oversee the strategic development, operational management and administration of Dubai’s DIFC companies. The Authority is committed to creating value for its various stakeholders. This commitment is expressed in DIFCA’s four-tiered management strategy:</p>
                                     <ul>
                                         <li>Dubai Vision: Contribute to Dubai’s reputation as a global business hub by maintaining international standards, developing international relations, business and employment creation, and economic development.</li>
-                                        <li>Infrastructure development: Provide world-class physical, legal and regulatory infrastructure, which has been tailor-made for the requirements of the financial and professional services community.</li>
-                                        <li>Financial sustainability: Ensure the financial sustainability of DIFC and the companies established in the centre through a programme of resource alignment, financial risk management, and competitive benchmarking.</li>
+                                        <li>Infrastructure development: Provide world-class physical, legal and regulatory infrastructure, which has been tailor-made for the requirements of the professional services community.</li>
+                                        <!--<li>Financial sustainability: Ensure the financial sustainability of DIFC and the companies established in the centre through a programme of resource alignment, financial risk management, and competitive benchmarking.</li>-->
                                         <li>Client centric: Support client growth through authority business process streamlining, service improvement, and enhanced management structures geared towards a superior client experience.</li>
                                     </ul>
                                 </div>
