@@ -41,7 +41,7 @@
     </script>
 </head>
 
-<body data-preloader="1">
+<body>
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHPGTC6Z" height="0" width="0"
@@ -174,7 +174,7 @@
             </div><!-- end container -->
         </div>
     </footer>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         var config = {
             phone: " 971506939558",
             call: "Let\'s Talk",
@@ -198,7 +198,7 @@
         };
         var x = document.getElementsByTagName("script")[0];
         x.parentNode.insertBefore(s, x);
-    </script>
+    </script>-->
     <!-- Scroll to top button-->
     <div class="scrolltotop">
         <a class="button-circle button-circle-md button-circle-dark" href="#"><i
@@ -236,7 +236,7 @@
             });
         });
     </script>
-    <!--Start of Tawk.to Script-->
+    <!--Start of Tawk.to Script
     <script type="text/javascript">
         var Tawk_API = Tawk_API || {},
             Tawk_LoadStart = new Date();
@@ -250,7 +250,7 @@
             s0.parentNode.insertBefore(s1, s0);
         })();
     </script>
-    <!--End of Tawk.to Script-->
+    End of Tawk.to Script-->
 </body>
 
 </html>
