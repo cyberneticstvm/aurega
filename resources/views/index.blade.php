@@ -22,7 +22,7 @@
             <div class="col-12 col-lg-4">
                 <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-men-women-work.jpg' }}" alt="Company Incorporation">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
-                    <h1 class="fw-light text-center">We do<br><span class="fw-normal">Companny Incorporation & Trade Licenses</span></h1>
+                    <h1 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation & Trade Licenses</span></h1>
                     <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
                     <div class="text-center"><a class="button button-sm btn-warnig mt-3" href="/services/company-incorporation-and-trade-license">Let's Talk</a></div>
                 </div>
