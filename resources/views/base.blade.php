@@ -26,6 +26,7 @@
     <link href="{{ public_path() . '/assets/plugins/magnific-popup/magnific-popup.min.css' }}" rel="stylesheet">
     <link href="{{ public_path() . '/assets/plugins/sal/sal.min.css' }}" rel="stylesheet">
     <link href="{{ public_path() . '/assets/css/theme.css' }}" rel="stylesheet">
+    <link href="{{ public_path() . '/assets/css/mystickyelement.css' }}" rel="stylesheet">
     <!-- Fonts/Icons -->
     <link href="{{ public_path() . '/assets/plugins/bootstrap-icons/bootstrap-icons.css' }}" rel="stylesheet">
     <link href="{{ public_path() . '/assets/plugins/font-awesome/css/all.css' }}" rel="stylesheet">
@@ -48,6 +49,22 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
+    <!-- Whatsapp -->
+    <div class="mystickyelements-fixed mystickyelements-position-right mystickyelements-position-screen-center mystickyelements-position-mobile-right mystickyelements-on-hover mystickyelements-size-medium mystickyelements-mobile-size-medium mystickyelements-templates-default">
+      <div class="mystickyelement-lists-wrap">
+        <ul class="mystickyelements-lists mystickyno-minimize">           
+          <li id="mystickyelements-social-whatsapp" class="mystickyelements-social-icon-li mystickyelements-social-whatsapp  element-desktop-on element-mobile-on">                                       
+            <span class="mystickyelements-social-icon social-whatsapp social-custom"  style="background: #26D367" >
+              <a href="https://api.whatsapp.com/send?phone=971506939558&text=Hello!%20I%20am%20interested%20in%20your%20course" target="_blank" rel="noopener"><i class="zmdi zmdi-whatsapp"></i></a>
+            </span>                 
+            <span class="mystickyelements-social-text " style= "background: #26D367;" >
+              <a href="https://api.whatsapp.com/send?phone=971506939558&text=Hello!%20I%20am%20interested%20in%20your%20course" target="_blank" rel="noopener">WhatsApp</a>
+            </span>
+          </li>
+        </ul>         
+      </div>
+    </div>
+    <!-- End Whatsapp -->
     <!-- Header -->
     <div class="header right dark sticky-autohide">
         <div class="container">
@@ -273,6 +290,7 @@
     <script src="{{ public_path() . '/assets/plugins/jquery.min.js' }}"></script>
     <script src="{{ public_path() . '/assets/plugins/plugins.js' }}"></script>
     <script src="{{ public_path() . '/assets/js/functions.js' }}"></script>
+    <script src="{{ public_path() . '/assets/js/mystickyelement.js' }}"></script>
     <script>
         $(function() {
             "use strict";
@@ -292,11 +310,11 @@
 
             $("#whatsapp-widget a").attr("href",
                 "https://web.whatsapp.com/send?phone=+971528686158&text=Hello! I am interested in your service");
-            $(".scrolltotop").css({
+            /*$(".scrolltotop").css({
                 'position': 'fixed',
                 'right': '20px',
                 'bottom': '100px'
-            });
+            });*/
         });
     </script>
     <!--Start of Tawk.to Script
