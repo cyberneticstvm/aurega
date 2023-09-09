@@ -12,11 +12,11 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description"
-        content="If you are looking for business setup in Dubai, UAE or company formation in Dubai, UAE, Aurega can help. Aurega is one of UAE’s largest and most trusted business setup advisory firms">
+    <meta name="description" content="{{ $meta_desc }}">
     <meta name="keywords" content="">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>{{ $title }}</title>
+    <link rel=“canonical” href="{{ $canonical_url }}" />
     <!-- Favicon -->
     <link href="{{ public_path() . '/assets/images/aurega/favicon.ico' }}" rel="shortcut icon">
     <!-- CSS -->
@@ -55,7 +55,7 @@
             <div class="header-logo">
                 <!--<h3><a href="#">mono</a></h3>-->
 
-                <img class="logo-light" src="{{ public_path() . '/assets/images/aurega/logo.jpeg' }}"
+                <img class="logo-light" src="{{ public_path() . '/assets/images/aurega/logo.webp' }}"
                     alt="Aurega Corporate Services">
                 <!-- <img class="logo-dark" src="../assets/images/your-logo-light.png" alt="">
      -->

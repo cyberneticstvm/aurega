@@ -1,7 +1,7 @@
 @extends("base")
 @section("content")
 <!-- Hero section -->
-<div class="section-xl bg-image parallax" data-bg-src="{{ public_path().'/assets/images/aurega/home-bg.jpg' }}">
+<div class="section-xl bg-image parallax" data-bg-src="{{ public_path().'/assets/images/aurega/home-bg.webp' }}">
     <div class="bg-dark-05">
         <div class="container">
             <div class="row g-4">
@@ -20,7 +20,7 @@
         <div class="row g-4">
             <!-- Feature box 1 -->
             <div class="col-12 col-lg-4">
-                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-men-women-work.jpg' }}" alt="Company Incorporation">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-men-women-work.webp' }}" alt="business setup dubai">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h1 class="fw-light text-center">We do<br><span class="fw-normal">Company Incorporation & Trade Licenses</span></h1>
                     <p class="text-justify">Considering starting a business in the UAE? Now is the perfect time for it. Dubai has millions of tourists flocking into the city daily-shopping, dining and taking in Dubai's tourist sites.</p>
@@ -29,7 +29,7 @@
             </div>
             <!-- Feature box 2 -->
             <div class="col-12 col-lg-4">
-                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-smiley-woman-with-passport.jpg' }}" alt="Golden Visa">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/medium-shot-smiley-woman-with-passport.webp' }}" alt="company formation in dubai">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h1 class="fw-light text-center">We do<br><span class="fw-normal">Golden Visa</span></h1>
                     <p class="text-justify">The United Arab Emirates (UAE) recently decided to issue a 10-year golden visa to professionals that will include foreign investors, entrepreneurs, engineers, physicians, Ph.Ds. who are from UAE accredited universities.</p>
@@ -38,7 +38,7 @@
             </div>
             <!-- Feature box 3 -->
             <div class="col-12 col-lg-4">
-                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/male-female-office-workers.jpg' }}" alt="Business Consulting">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/male-female-office-workers.webp' }}" alt="business set up in uae">
                 <div class="bg-white box-shadow hover-float p-4 p-xl-5">
                     <h1 class="fw-light text-center">We do<br><span class="fw-normal">Business Consulting</span></h1>
                     <p class="text-justify">Aurega helps to create greater opportunities and the new work of modern business. Let’s create new ways for Business to do Business who wants to increase their efficiency and gain a competitive edge in the marketplace.</p>
@@ -53,7 +53,7 @@
     <div class="container">
         <div class="row align-items-center g-5">
             <div class="col-12 col-lg-6 col-xl-7">
-                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/minimalistic-business-desk-arrangement.jpg' }}" alt="About Aurega">
+                <img class="border-radius" src="{{ public_path().'/assets/images/aurega/minimalistic-business-desk-arrangement.webp' }}" alt="company setup dubai">
             </div>
             <div class="col-12 col-lg-6 col-xl-5">
                 <h2 class="fw-normal">About Aurega</h2>
@@ -66,7 +66,7 @@
 <!-- end About section -->
 
 <!-- Testimonial section -->
-<div class="section-xl bg-image parallax" data-bg-src="{{ public_path().'/assets/images/aurega/aerial-view-business-team.jpg' }}">
+<div class="section-xl bg-image parallax" data-bg-src="{{ public_path().'/assets/images/aurega/aerial-view-business-team.webp' }}">
     <div class="bg-dark-05">
         <div class="container">
             <div class="owl-carousel" data-owl-dots="false" data-owl-nav="true" data-owl-margin="30" data-owl-xs="1" data-owl-sm="1" data-owl-md="1" data-owl-lg="2" data-owl-xl="2">
@@ -74,7 +74,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="Feedback">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="business setup uae">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Emiley Haley</h5>
@@ -87,7 +87,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="Feedback">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="business setup services in dubai">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Biju Janardhanan</h5>
@@ -100,7 +100,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="Feedback">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="business set up companies in uae">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Abdul Samad</h5>
@@ -113,7 +113,7 @@
                 <div class="bg-color-spring-red-07 border-radius p-5">
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-inline-block me-3">
-                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="Feedback">
+                            <img class="img-mask-avatar-sm" src="{{ public_path().'/assets/images/aurega/avatar.png' }}" alt="business setup in dubai uae">
                         </div>
                         <div class="d-inline-block">
                             <h5 class="fw-normal m-0 line-height-140">Mohammed Labadi</h5>
