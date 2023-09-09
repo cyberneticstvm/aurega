@@ -70,6 +70,45 @@
                         <a class="nav-link" href="/about">About Us</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="#">Business Setup</a>
+                        <ul class="nav-dropdown">
+                            <li class="nav-dropdown-item">
+                                <a class="nav-dropdown-link" href="/">UAE Free Zone</a>
+                                <ul class="nav-subdropdown">
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Sharjah Media City Free Zone(SHAMS)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Sharjah Publishing City Free Zone (SPCFZ)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Fujairah Creative City free zone</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Ras Al Khaimah Economic Zone (RAKEZ)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">RAK ICC</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Dubai South</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Ajman Free Zone (AFZ)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">KIZAD Free Zone (KFZ)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Dubai Multi Commodities Center(DMCC)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Dubai World Trade Center(DWTC)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Dubai Design District(D3)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Umm Al Quwain Free Trade Zone(UAQFTZ)</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Meydan Free Zone (MFZ)</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-dropdown-item">
+                                <a class="nav-dropdown-link" href="/">Offshore</a>
+                                <ul class="nav-subdropdown">
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">BVI</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Ajman</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Jafza</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-dropdown-item">
+                                <a class="nav-dropdown-link" href="/">Mainland</a>
+                                <ul class="nav-subdropdown">
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Dubai Mainland</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Abu Dhabi Mainland</a></li>
+                                    <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="/">Abu Dhabi Global Market (ADGM)</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="#">Services</a>
                         <ul class="nav-dropdown">
                             <li class="nav-dropdown-item"><a class="nav-dropdown-link"
@@ -89,11 +128,22 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/contact">Contact Us</a>
+                        <a class="nav-link" href="#">Resources</a>
+                        <ul class="nav-dropdown">
+                            <li class="nav-dropdown-item"><a class="nav-dropdown-link"
+                                    href="/">Blogs</a></li>
+                            <li class="nav-dropdown-item"><a class="nav-dropdown-link"
+                                    href="/services/golden-visa">Guides</a></li>
+                            <li class="nav-dropdown-item"><a class="nav-dropdown-link"
+                                    href="/services/business-consulting">Our Partners</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-warning" href="https://auregagroup.com" target="_blank">Aurega Group</a>
+                        <a class="nav-link" href="/contact">Contact Us</a>
                     </li>
+                    <!--<li class="nav-item">
+                        <a class="nav-link text-warning" href="https://auregagroup.com" target="_blank">Aurega Group</a>
+                    </li>-->
                 </ul>
             </div>
             <!-- Menu Extra -->
@@ -121,45 +171,58 @@
         <div class="section-sm bg-black">
             <div class="container">
                 <div class="row g-4">
-                    <div class="col-6 col-sm-6 col-lg-3">
+                    <!--<div class="col-6 col-sm-6 col-lg-3">
                         <a href="/"><img class="logo-footer"
                                 src="{{ public_path() . '/assets/images/aurega/logo.jpeg' }}"
                                 alt="Aurega Corporate Services"></a>
-                    </div>
+                    </div>-->
                     <div class="col-6 col-sm-6 col-lg-3">
                         <h6 class="font-small fw-medium uppercase">Useful Links</h6>
                         <ul class="list-dash animate-links">
-                            <li><a href="/about">About Aurega</a></li>
                             <li><a href="/services">Services</a></li>
-                            <li><a href="/contact">Contact</a></li>
                             <li><a href="/careers">Careers</a></li>
-                        </ul>
-                        <p>Our Parent Organization</p>
-                        <ul class="list-dash animate-links">
-                            <li><a href="https://auregagroup.com" target="_blank">Aurega Group</a></li>
+                            <li><a href="https://auregagroup.com" target="_blank">Our Parent Organization</a></li>
+                            
                         </ul>
                     </div>
                     <div class="col-6 col-sm-6 col-lg-3">
                         <h6 class="font-small fw-medium uppercase">Services We offered</h6>
                         <ul class="list-dash animate-links">
-                            <li><a href="/services/company-incorporation-and-trade-license">Company Incorporation</a>
-                            </li>
-                            <li><a href="/services/golden-visa">Golden Visa</a></li>
-                            <li><a href="/services/business-consulting">Business Consulting</a></li>
-                            <li><a href="/services/accounting-and-book-keeping">Accounting & Book-keeping</a></li>
-                            <li><a href="/services/pro-service">PRO Services</a></li>
-                            <li><a href="/services/trademark-registration-and-intellectual-property">Trademark
-                                    Registration</a></li>
+                            <li><a href="/">UAE Free Zone</a></li>
+                            <li><a href="/">Offshore</a></li>
+                            <li><a href="/">Mainland</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-sm-6 col-lg-3">
+                        <h6 class="font-small fw-medium uppercase">Services We offered</h6>
+                        <ul class="list-dash animate-links">
+                            <li><a href="/">About Us</a></li>
+                            <li><a href="/">Contact Us</a></li>
+                            <li><a href="/">Blog</a></li>
+                            <li><a href="/">Resources</a></li>
+                            <li><a href="/">FAQ</a></li>
+                            <li><a href="/">Terms & Conditions</a></li>
+                            <li><a href="/">Privacy Policy</a></li>
                         </ul>
                     </div>
                     <div class="col-6 col-sm-6 col-lg-3">
                         <h6 class="font-small fw-medium uppercase">Contact Info</h6>
                         <ul class="list-unstyled">
                             <li>#106, Bay Square 11, Business Bay, Dubai</li>
-                            <li>mkt@auregagroup.com</li>
-                            <li>+(971) 52 868 6158</li>
-                            <li>+(971) 50 693 9558</li>
+                            <li><a href="mailto:mkt@auregagroup.com">mkt@auregagroup.com</a></li>
+                            <li><a href="tel:+971528686158">+(971) 52 868 6158</a></li>
+                            <li><a href="tel:+971506939558">+(971) 50 693 9558</a></li>
                         </ul>
+                        <div class="header-menu-extra mt-5 text-end">
+                            <ul class="list-inline">
+                                <li><a href="https://facebook.com/auregagroup/" target="_blank"><i class="bi bi-facebook"></i></a>
+                                </li>
+                                <li><a href="https://instagram.com/auregagroup/?hl=en" target="_blank"><i
+                                            class="bi bi-instagram"></i></a></li>
+                                <li><a href="https://linkedin.com/company/auregaglobal/" target="_blank"><i
+                                            class="bi bi-linkedin"></i></a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div><!-- end row -->
             </div><!-- end container -->
