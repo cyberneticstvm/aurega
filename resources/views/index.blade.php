@@ -136,12 +136,12 @@
             <div class="col-12 col-md-4">
                 <div class="mb-4">
                     <h6 class="fw-medium m-0">Phone:</h6>
-                    <p>+(971) 52 868 6158</p>
-                    <p>+(971) 50 693 9558</p>
+                    <p><a href="tel:+971528686158">+(971) 52 868 6158</a></p>
+                    <p><a href="tel:+971506939558">+(971) 50 693 9558</a></p>
                 </div>
                 <div class="mb-4">
                     <h6 class="fw-medium m-0">Email:</h6>
-                    <p>mkt@auregagroup.com</p>
+                    <p><a href="mailto:mkt@auregagroup.com">mkt@auregagroup.com</a></p>
                 </div>
                 <div>
                     <h6 class="fw-medium m-0">Address:</h6>
